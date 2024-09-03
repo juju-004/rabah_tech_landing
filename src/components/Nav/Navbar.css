@@ -1,0 +1,59 @@
+.Navbar {
+  max-width: 1200px;
+  color: white;
+
+  width: 100%;
+  margin: 0 auto;
+  padding: 0 20px;
+  transition: background-color 0.3s ease;
+}
+
+.Navbar .navbar {
+  background-color: transparent;
+}
+
+.Navbar .logo {
+  font-family: cursive;
+  font-weight: 900;
+  @apply text-2xl;
+}
+
+.Navbar .navbar-brand {
+  width: 100px;
+}
+
+.Navbar .nav-link {
+  font-size: 18px;
+  font-weight: 700;
+  text-decoration: none;
+  cursor: pointer;
+  @apply text-zinc-500;
+}
+
+.Navbar .nav-link:hover {
+  color: #292929;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+.btn {
+  vertical-align: middle;
+}
+
+.btn img {
+  height: 20px;
+  width: 20px;
+}
+
+/* Responsive styles */
+@media (max-width: 991px) {
+  .nav-link {
+    margin-bottom: 10px;
+  }
+
+  .navbar-toggler {
+    margin-right: 0;
+  }
+}
