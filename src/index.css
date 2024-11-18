@@ -4,56 +4,33 @@
 
 html,
 body {
-  overflow-x: hidden;
   margin: 0;
+  @apply overflow-x-hidden;
+  scroll-behavior: smooth;
 }
 
 * {
-  @apply font-[suse];
+  @apply font-[genty];
+}
+.rbh {
+  text-shadow: 1px 1px #00000036;
 }
 
 @font-face {
-  font-family: "Matemasie";
-  src: url("./fonts/Matemasie-Regular.ttf");
-}
-@font-face {
-  font-family: "Gue";
-  src: url("./fonts/Protest_Guerrilla/ProtestGuerrilla-Regular.ttf");
-}
-@font-face {
-  font-family: "suse";
-  src: url("./fonts/SUSE/static/SUSE-ExtraBold.ttf");
+  font-family: "Genty";
+  src: url("./fonts/GentySans-Regular.ttf");
 }
 
 .fx {
   @apply flex justify-center items-center;
 }
-
-.none {
-  display: none;
+.genty {
+  @apply font-[genty];
 }
 
 h2.heading {
-  font-family: "suse" !important;
-  font-weight: 700;
   line-height: 1;
   letter-spacing: normal;
   text-transform: uppercase;
   margin-bottom: 80px;
-  @apply text-zinc-400 text-[50px] sm:text-[80px];
-}
-
-h2.heading span {
-  font-family: "suse" !important;
-  background: linear-gradient(
-    to right,
-    #5101e3,
-    #8300e7,
-    #a900eb,
-    #cc00ee,
-    #eb00f0
-  );
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
 }

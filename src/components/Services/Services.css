@@ -27,15 +27,6 @@
 }
 
 .about-title span {
-  background: linear-gradient(
-    to right,
-    #5101e3,
-    #8300e7,
-    #a900eb,
-    #cc00ee,
-    #eb00f0
-  );
-  background-clip: text;
   color: transparent;
 }
 
@@ -69,16 +60,7 @@
   font-size: 50px;
   font-weight: 700;
   margin-bottom: 5px;
-  background: linear-gradient(
-    to right,
-    #5101e3,
-    #8300e7,
-    #a900eb,
-    #cc00ee,
-    #eb00f0
-  );
-  background-clip: text;
-  color: transparent;
+  @apply text-blue-600;
 }
 
 .about .about-card p {
@@ -107,17 +89,8 @@
 
 .about .box i {
   font-size: 58px;
-  background: linear-gradient(
-    to right,
-    #5101e3,
-    #8300e7,
-    #a900eb,
-    #cc00ee,
-    #eb00f0
-  );
-  background-clip: text;
-  color: transparent;
   margin-bottom: 20px;
+  @apply text-blue-600;
 }
 
 .about .box h2 {

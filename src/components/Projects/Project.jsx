@@ -25,27 +25,27 @@ export default function Collection() {
       image2: require("../../images/11.jpg"),
       image3: require("../../images/09.jpg"),
     },
-    {
-      name: "Wordpress",
-      profileImg: require("../../images/03.jpg"),
-      image1: require("../../images/13.jpg"),
-      image2: require("../../images/12.jpg"),
-      image3: require("../../images/15.jpg"),
-    },
-    {
-      name: "Business",
-      profileImg: require("../../images/01.jpg"),
-      image1: require("../../images/16.jpg"),
-      image2: require("../../images/17.jpg"),
-      image3: require("../../images/14.jpg"),
-    },
-    {
-      name: "Fishy",
-      profileImg: require("../../images/10.jpg"),
-      image1: require("../../images/10.jpg"),
-      image2: require("../../images/02.jpg"),
-      image3: require("../../images/06.jpg"),
-    },
+    // {
+    //   name: "Wordpress",
+    //   profileImg: require("../../images/03.jpg"),
+    //   image1: require("../../images/13.jpg"),
+    //   image2: require("../../images/12.jpg"),
+    //   image3: require("../../images/15.jpg"),
+    // },
+    // {
+    //   name: "Business",
+    //   profileImg: require("../../images/01.jpg"),
+    //   image1: require("../../images/16.jpg"),
+    //   image2: require("../../images/17.jpg"),
+    //   image3: require("../../images/14.jpg"),
+    // },
+    // {
+    //   name: "Fishy",
+    //   profileImg: require("../../images/10.jpg"),
+    //   image1: require("../../images/10.jpg"),
+    //   image2: require("../../images/02.jpg"),
+    //   image3: require("../../images/06.jpg"),
+    // },
   ];
 
   return (

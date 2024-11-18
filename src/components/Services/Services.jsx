@@ -1,6 +1,6 @@
 import React from "react";
 import "./Services.css";
-import collectionImage from "../../images/collection.png";
+// import collectionImage from "";
 import Header from "../shared/Header";
 
 export default function About() {
@@ -9,17 +9,21 @@ export default function About() {
       <div className="container-fluid">
         <div className="row justify-content-center">
           <div className="col-md-6 about-image">
-            <img src={collectionImage} className="img-fluid" alt="Collection" />
+            <img
+              src={process.env.PUBLIC_URL + "/images/img(7).jpg"}
+              className=""
+              alt="Collection"
+            />
           </div>
-          <div className="col-md-6 panel-content">
+          <div className="col-md-6 flex flex-col items-start justify-center panel-content">
             <Header spanItem={"Services"} item={"Our"} br />
-            <p className="about-content">
-              We create site projects and offer web programming tutorials
-            </p>
-            <p className="about-content">
-              We also provide online and physical tutorials on website creation
-              using languages like HTML, CSS & Javascript
-            </p>
+            <ul className="list-disc text-2xl text-slate-600">
+              <li>School Projects</li>
+              <li>Websites & Webapps</li>
+              <li>IT Training</li>
+              <li>Web development Training</li>
+              <li>Tech Marketing</li>
+            </ul>
           </div>
 
           <div className="row justify-content-center boxs">

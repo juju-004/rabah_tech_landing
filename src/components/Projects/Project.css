@@ -6,13 +6,11 @@
 }
 
 .collection-card {
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  border: 1px solid #00000428;
   border-radius: 25px;
   padding: 20px;
   margin-bottom: 30px;
   overflow-wrap: normal;
-  @apply bg-black/30;
+  @apply bg-slate-300 border-slate-400 border-[1px];
 }
 
 .collection-card-header {
