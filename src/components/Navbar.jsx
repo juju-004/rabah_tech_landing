@@ -50,9 +50,9 @@ function Navbar() {
   }, []);
 
   return (
-    <nav className="w-screen flex z-[1000]  justify-center">
+    <nav className="w-screen flex genty z-[1000] justify-center">
       <Container
-        className={`Navbar fixed rounded-[30px] duration-200 shadow-none bg-transparent z-[1000] scroller backdrop-blur-xl py-3 fx top-3`}
+        className={`Navbar fixed rounded-[30px] duration-200 shadow-none bg-transparent z-[1000] scroller py-[11px] fx top-3`}
       >
         <div className=" flex-1 pl-4">
           <span className="logo">

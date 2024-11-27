@@ -1,36 +1,38 @@
 import React from "react";
-import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
-import Why from "./components/Why";
-import Services from "./components/Services/Services";
-import Team from "./components/Team/Team";
-import Projects from "./components/Projects/Project";
-// import Users from "./components/Users/Users";
+import About from "./components/About";
+import Features from "./components/Features";
+import Process from "./components/Process";
+import Fact from "./components/Fact";
+import Team from "./components/Team";
+import Review from "./components/Review";
+import News from "./components/News";
+import Blog from "./components/Blog";
 import Footer from "./components/Footer";
-import Break from "./components/Break";
+import Navbar from "./components/Navbar";
 
 function App() {
-  let pages = [
-    { page: <Why />, id: "why" },
-    { page: <Services />, id: "services" },
-    { page: <Projects />, id: "projects" },
-    { page: <Team />, id: "team" },
-  ];
-
   return (
     <div className="">
       <Navbar />
-      <Hero id="hero" />
-      {pages.map((page, i) => (
-        <div id={page.id} key={i} className=" -z-10">
-          <Break />
-          {page.page}
-          <Break />
-        </div>
-      ))}
+      <Hero />
+      <About />
+      <Features />
+      <Process />
+      <Fact />
+      <Team />
+      <Review />
+      <News />
+      <Blog />
       <Footer />
     </div>
   );
 }
+
+// why
+// projects
+// services
+// team
+// our users
 
 export default App;

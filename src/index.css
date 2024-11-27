@@ -4,13 +4,12 @@
 
 html,
 body {
-  margin: 0;
-  @apply overflow-x-hidden;
+  /* @apply overflow-x-hidden; */
   scroll-behavior: smooth;
 }
 
 * {
-  @apply font-[genty];
+  /* @apply font-[genty]; */
 }
 .rbh {
   text-shadow: 1px 1px #00000036;
