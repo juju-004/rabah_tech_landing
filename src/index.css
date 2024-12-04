@@ -8,11 +8,18 @@ body {
   scroll-behavior: smooth;
 }
 
-* {
-  /* @apply font-[genty]; */
+*,
+* > * {
+  @apply font-[genty];
 }
 .rbh {
   text-shadow: 1px 1px #00000036;
+}
+.rbh::after {
+  text-shadow: 3px 3px #00000036;
+}
+.rbh::before {
+  text-shadow: 3px 3px #00000036;
 }
 
 @font-face {
@@ -33,3 +40,34 @@ h2.heading {
   text-transform: uppercase;
   margin-bottom: 80px;
 }
+.scroller.active {
+  @apply !bg-white !shadow-md;
+}
+.scroller.active .nav-link {
+  @apply !text-black;
+}
+.scroller.inactive {
+  @apply bg-transparent shadow-none;
+}
+.foot * {
+  @apply !text-c3;
+}
+footer .links div {
+  @apply flex flex-col gap-3 items-start;
+}
+footer .links div h3 {
+  @apply font-bold text-xl !text-c3;
+}
+/* body::-webkit-scrollbar {
+  width: 8px;
+  border-radius: 30px;
+}
+
+body::-webkit-scrollbar-track {
+  background: transparent;
+  width: 0px;
+}
+
+body::-webkit-scrollbar-thumb {
+  @apply bg-c3/85 hover:bg-c3 duration-200 rounded-full;
+} */

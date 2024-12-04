@@ -1,50 +1,50 @@
 import React from "react";
+import { BiUser } from "react-icons/bi";
 
 function Fact() {
+  const fact = [
+    {
+      number: "300",
+      text: (
+        <>
+          Community <br /> members
+        </>
+      ),
+    },
+    { number: "40", text: <>Projects</>, icon: <BiUser /> },
+    {
+      number: "10",
+      text: (
+        <>
+          Team <br />
+          members
+        </>
+      ),
+    },
+    {
+      number: "5",
+      text: (
+        <>
+          Years of
+          <br />
+          experience
+        </>
+      ),
+    },
+  ];
   return (
-    <section class="fact-section gradient-bg">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="fact">
-              <h2>60</h2>
-              <p>
-                Support <br />
-                Countries
-              </p>
-              <i class="ti-basketball"></i>
+    <section className="fact-section gradient-bg">
+      <div className="container">
+        <div className="grid grid-cols-4 grid-rows-1 gap-1 lg:gap-1">
+          {fact.map((f, k) => (
+            <div className="fact fx lg:py-0 py-4 gap-4 col-span-4 sm:col-span-2 lg:col-span-1 row-span-1">
+              <h2 className="text-white rbh text-5xl">
+                {f.number}
+                <span className="opacity-45">+</span>
+              </h2>
+              <p className="text-c2">{f.text}</p>
             </div>
-          </div>
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="fact">
-              <h2>12K</h2>
-              <p>
-                Transactions <br />
-                per hour
-              </p>
-              <i class="ti-panel"></i>
-            </div>
-          </div>
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="fact">
-              <h2>5B</h2>
-              <p>
-                Largest <br />
-                Transactions
-              </p>
-              <i class="ti-stats-up"></i>
-            </div>
-          </div>
-          <div class="col-sm-6 col-md-6 col-lg-3">
-            <div class="fact">
-              <h2>240</h2>
-              <p>
-                Years <br />
-                of Experience
-              </p>
-              <i class="ti-user"></i>
-            </div>
-          </div>
+          ))}
         </div>
       </div>
     </section>

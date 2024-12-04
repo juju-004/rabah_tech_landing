@@ -6,6 +6,7 @@ import {
   BiLogoWhatsapp,
   BiLogoFacebook,
 } from "react-icons/bi";
+import Logo from "./shared/Logo";
 
 function Navbar() {
   const links = ["services", "projects", "team", "Our users"];
@@ -23,49 +24,30 @@ function Navbar() {
 
   useEffect(() => {
     window.addEventListener("scroll", (e) => {
-      console.log(window.scrollY);
-
       if (
         window.scrollY > 20 &&
-        document.querySelector(".scroller").classList.contains("shadow-none")
+        !document.querySelector(".scroller").classList.contains("active")
       ) {
-        document
-          .querySelector(".scroller")
-          .classList.replace("bg-transparent", "bg-white/60");
-        document
-          .querySelector(".scroller")
-          .classList.replace("shadow-none", "shadow-md");
+        document.querySelector(".scroller").classList.add("active");
       } else if (
         window.scrollY < 21 &&
-        document.querySelector(".scroller").classList.contains("shadow-md")
+        document.querySelector(".scroller").classList.contains("active")
       ) {
-        document
-          .querySelector(".scroller")
-          .classList.replace("shadow-md", "shadow-none");
-        document
-          .querySelector(".scroller")
-          .classList.replace("bg-white/60", "bg-transparent");
+        document.querySelector(".scroller").classList.remove("active");
       }
     });
   }, []);
 
   return (
-    <nav className="w-screen flex genty z-[1000] justify-center">
+    <nav className="w-screen flex top-3 fixed  genty px-2 z-[1000] justify-center">
       <Container
-        className={`Navbar fixed rounded-[30px] duration-200 shadow-none bg-transparent z-[1000] scroller py-[11px] fx top-3`}
+        className={`rounded-[30px] !px-5 duration-200 shadow-none bg-transparent scroller py-[11px] fx`}
       >
-        <div className=" flex-1 pl-4">
-          <span className="logo">
-            <span className=" text-slate-400">
-              <span className="text-blue-600 ">{"<"}</span>
-              <span className="">rabah</span>
-            </span>
-            <span className="text-blue-600 ">tech{"/>"}</span>
-          </span>
+        <div className=" flex-1 md:pl-4">
+          <Logo />
         </div>
-
         <div className="fx gap-6">
-          <div className="items-center flex none pt-1 gap-4 px-2">
+          <div className="lg:flex hidden justify-center items-center none pt-1 gap-4 px-2">
             {links.map((item, key) => (
               <>
                 {key ? <span className="opacity-20">|</span> : <></>}
@@ -75,7 +57,7 @@ function Navbar() {
                     spy={true}
                     smooth={true}
                     duration={500}
-                    className="nav-link cursor-pointer active:scale-90 duration-300 scale-100 capitalize"
+                    className="nav-link cursor-pointer active:text-blue-600 text-white duration-300 scale-100 capitalize"
                   >
                     {item}
                   </Link>

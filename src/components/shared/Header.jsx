@@ -1,11 +1,14 @@
 import React from "react";
 
-function Header({ item, spanItem, br }) {
+function Header({ children, className, style }) {
   return (
-    <h2 className="text-slate-400 text-[30px] sm:text-[60px] heading">
-      {item} {br ? <br /> : <></>}{" "}
-      <span className="text-blue-600">{spanItem}</span>
-    </h2>
+    <div className={`fx ${className} mb-3 ${!style ? "md:!mb-20" : ""}`}>
+      <span
+        className={`md:text-5xl text-4xl relative max-w-[70%] text-center before:text-white text-c1 font-bold before:absolute before:left-full after:absolute after:top-1/2 after:-translate-y-1/2 before:top-1/2 before:-translate-y-1/2 after:right-full after:text-white rbh before:content-['/>'] after:content-['<'] font-[genty] `}
+      >
+        {children}
+      </span>
+    </div>
   );
 }
 
