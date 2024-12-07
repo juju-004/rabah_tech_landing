@@ -120,68 +120,6 @@ ol {
   color: #fff;
 }
 
-/*---------------------
-	Commom elements
------------------------*/
-
-/* Buttons */
-
-.site-btn {
-  position: relative;
-  display: inline-block;
-  padding: 15px 30px;
-  font-size: 16px;
-  font-weight: 500;
-  line-height: 16px;
-  border-radius: 50px;
-  min-width: 170px;
-  text-align: center;
-  border: 2px solid #7ad4cc;
-  cursor: pointer;
-  color: #fff;
-}
-
-.site-btn:hover {
-  color: #fff;
-}
-
-.site-btn.no-radius {
-  border-radius: 2px;
-}
-
-.site-btn.sb-full-- {
-  display: block;
-  width: 100%;
-  border-radius: 0;
-}
-
-.site-btn.sb-gradients {
-  padding: 17px 32px;
-  border: none;
-  color: #fff;
-}
-
-.site-btn.sb-gradients.sbg-line {
-  color: #20509e;
-  z-index: 1;
-}
-
-.site-btn.sb-gradients.sbg-line:after {
-  position: absolute;
-  content: "";
-  width: calc(100% - 4px);
-  height: calc(100% - 4px);
-  background: #fff;
-  top: 2px;
-  left: 2px;
-  z-index: -1;
-  border-radius: 50px;
-}
-
-.site-btn.sb-gradients.sbg-line:hover {
-  color: #20509e;
-}
-
 .gradient-bg,
 .site-btn.sb-gradients,
 .member-social a:hover {
@@ -189,26 +127,6 @@ ol {
   /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3e2bce', endColorstr='#2dd3aa', GradientType=1);
   /* IE6-9 */
-}
-
-/* Image Popup */
-
-.img-popup-warp .mfp-content,
-.img-popup-warp.mfp-ready.mfp-removing .mfp-content {
-  opacity: 0;
-  -webkit-transform: scale(0.8);
-  -ms-transform: scale(0.8);
-  transform: scale(0.8);
-  -webkit-transition: all 0.4s;
-  -o-transition: all 0.4s;
-  transition: all 0.4s;
-}
-
-.img-popup-warp.mfp-ready .mfp-content {
-  opacity: 1;
-  -webkit-transform: scale(1);
-  -ms-transform: scale(1);
-  transform: scale(1);
 }
 
 /* Preloder */
@@ -440,7 +358,6 @@ ol {
 
 .member {
   background: #fff;
-  width: calc(20% - 25px);
   display: inline-block;
   margin: 0 10px;
   text-align: center;
@@ -571,9 +488,7 @@ ol {
 .author-name {
   position: absolute;
   width: 280px;
-  left: -50%;
-  bottom: -10px;
-  margin-left: -50px;
+  bottom: -25px;
   text-align: center;
   visibility: hidden;
 }
@@ -843,10 +758,6 @@ ol {
     left: 0px;
     width: 480px;
   }
-  .member {
-    width: calc(33.333333% - 25px);
-    margin-bottom: 30px;
-  }
   .team-members {
     text-align: center;
   }
@@ -902,11 +813,6 @@ ol {
     width: auto;
     margin-top: 50px;
   }
-  .member {
-    width: calc(33.333333% - 25px);
-    margin-bottom: 30px;
-    padding: 35px 10px;
-  }
   .member-img {
     width: 160px;
     height: 160px;
@@ -929,26 +835,6 @@ ol {
   }
   .push-8 {
     left: 0;
-  }
-  .review-section {
-    text-align: center;
-  }
-  .review-text {
-    padding: 0 60px;
-  }
-  .review-text-slider .owl-nav {
-    padding-top: 0;
-    position: absolute;
-    top: 50%;
-    margin-top: -45px;
-    left: 0;
-    width: 100%;
-  }
-  .review-text-slider .owl-prev {
-    float: left;
-  }
-  .review-text-slider .owl-next {
-    float: right;
   }
   .review-meta-slider {
     margin: auto;
@@ -1059,23 +945,6 @@ ol {
   .review-section {
     text-align: center;
   }
-  .review-text {
-    padding: 0 60px;
-  }
-  .review-text-slider .owl-nav {
-    padding-top: 0;
-    position: absolute;
-    top: 50%;
-    margin-top: -45px;
-    left: 0;
-    width: 100%;
-  }
-  .review-text-slider .owl-prev {
-    float: left;
-  }
-  .review-text-slider .owl-next {
-    float: right;
-  }
   .review-meta-slider {
     margin: auto;
   }
@@ -1096,13 +965,6 @@ ol {
   }
   .blog-item {
     margin-bottom: 30px;
-  }
-  .footer-widget {
-    margin-bottom: 30px;
-  }
-  .single-blog-page .social-share {
-    text-align: left;
-    margin-top: 20px;
   }
 }
 
@@ -1140,15 +1002,5 @@ ol {
   .member-info {
     padding: 50px 20px 10px;
     height: 320px;
-  }
-  .blog-text {
-    padding: 15px;
-  }
-  .comment .comment-avator {
-    float: none;
-    margin-bottom: 20px;
-  }
-  .comment .comment-content {
-    padding-left: 0;
   }
 }

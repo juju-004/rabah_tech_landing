@@ -6,18 +6,23 @@ import { BiLogoFacebook, BiLogoTwitter, BiLogoGithub } from "react-icons/bi";
 function Team() {
   let data = [
     {
-      img: "",
+      img: "img/review/img(1).png",
       name: "David Udoh",
       position: "Chief developer",
       description: "",
     },
     {
-      img: "",
+      img: "img/review/img(1).png",
       name: "Precious",
       position: "Chief Marketer(CEO)",
       description: "",
     },
-    { img: "", name: "Gospel", position: "Digital Marketer", description: "" },
+    {
+      img: "img/review/img(1).png",
+      name: "Gospel",
+      position: "Digital Marketer",
+      description: "",
+    },
   ];
 
   return (
@@ -26,13 +31,12 @@ function Team() {
       <Container className={"!max-w-[950px]"}>
         <div className="row">
           {data.map((d, key) => (
-            <div className="col-md-4 " key={key}>
-              <div className="member rounded-br-none w-full">
+            <div className="col-md-4" key={key}>
+              <div className="member w-full">
                 <div className="member-text">
-                  <div
-                    className="member-img set-bg"
-                    data-setbg="img/member/1.jpg"
-                  ></div>
+                  <div className="member-img">
+                    <img src={d.img} alt="" />
+                  </div>
                   <h2>{d.name}</h2>
                   <span>{d.position}</span>
                 </div>

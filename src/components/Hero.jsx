@@ -1,6 +1,13 @@
 import React from "react";
+import Image from "./Image";
 
 function Hero() {
+  let images = [
+    "/img/bgimg(2).jpg",
+    "/img/bgimg(1).png",
+    "/img/bgimg(3).jpg",
+    "/img/bgimg(1).jpg",
+  ];
   return (
     <section className="hero-section flex flex-col justify-center h-screen md:h-[900px]">
       <div className="container">
@@ -14,34 +21,27 @@ function Hero() {
           </div>
           <div className="col-md-6 md:flex hidden">
             <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-2 grid-rows-2 h-[400px]">
-              <div className="row-span-1 col-span-1">
-                <img
-                  src={process.env.PUBLIC_URL + "/img/bgimg(2).jpg"}
-                  className="shadow-2xl w-full h-full -skew-x-6"
-                  alt=""
-                />
-              </div>
-              <div className="row-span-1 col-span-1 hidden lg:block">
-                <img
-                  src={process.env.PUBLIC_URL + "/img/bgimg(1).png"}
-                  className="shadow-2xl w-full h-full -skew-x-6"
-                  alt=""
-                />
-              </div>
-              <div className="row-span-1 col-span-1">
-                <img
-                  src={process.env.PUBLIC_URL + "/img/bgimg(3).jpg"}
-                  className="shadow-2xl w-full h-full -skew-x-6"
-                  alt=""
-                />
-              </div>
-              <div className="row-span-1 col-span-1 hidden lg:block">
-                <img
-                  src={process.env.PUBLIC_URL + "/img/bgimg(1).jpg"}
-                  className="shadow-2xl w-full h-full -skew-x-6"
-                  alt=""
-                />
-              </div>
+              {images.map((i, key) => {
+                let className = (key + 1) % 2 === 0 ? "hidden lg:block" : "";
+                console.log((key + 1) % 2 === 0, key);
+                return (
+                  <div
+                    className={`row-span-1 col-span-1 ${className}`}
+                    key={key}
+                  >
+                    <Image
+                      src={process.env.PUBLIC_URL + i}
+                      loading={
+                        <div
+                          className={`shadow-2xl w-full h-full animate-pulse bg-black/25 -skew-x-6 `}
+                        ></div>
+                      }
+                      className={`shadow-2xl w-full h-full -skew-x-6`}
+                      alt=""
+                    />
+                  </div>
+                );
+              })}
             </div>
           </div>
         </div>

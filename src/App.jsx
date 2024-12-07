@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
 import Projects from "./components/Projects";
@@ -10,8 +10,25 @@ import Footer from "./components/Footer";
 import Navbar from "./components/Navbar";
 
 function App() {
+  useEffect(() => {
+    //  const loader = document.querySelector(".loader");
+    const preloder = document.querySelector("#preloder");
+
+    //  if (loader) loader.style.display = "none";
+    if (preloder) {
+      preloder.classList.add("fadeOut");
+      setTimeout(() => {
+        preloder.style.display = "none";
+      }, 400);
+    }
+  }, []);
+
   return (
     <>
+      <div id="preloder" className="">
+        <div class="loader"></div>
+      </div>
+
       <Navbar />
       <Hero />
       <Choose />

@@ -1,6 +1,7 @@
 import React from "react";
 import Header from "./shared/Header";
 import Container from "./shared/Container";
+import Image from "./Image";
 
 function Projects() {
   let projects = [
@@ -30,9 +31,12 @@ function Projects() {
                   <h3 className="text-2xl">{p.title}</h3>
                   <span className="opacity-55">{p.content}</span>
                 </div>
-                <img
+                <Image
                   src={`/img/projects/img(${k ? "1" : "3"}).png`}
-                  className="rounded-xl"
+                  loading={
+                    <div className="rounded-xl bg-black/15 h-60 w-full"></div>
+                  }
+                  className="rounded-xl w-full"
                   alt=""
                 />
               </div>

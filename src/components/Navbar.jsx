@@ -9,7 +9,7 @@ import {
 import Logo from "./shared/Logo";
 
 function Navbar() {
-  const links = ["services", "projects", "team", "Our users"];
+  const links = ["services", "projects", "Our users", "team"];
   const icons = [
     {
       icon: <BiLogoFacebook />,
