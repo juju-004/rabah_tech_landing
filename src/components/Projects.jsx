@@ -17,7 +17,7 @@ function Projects() {
     },
   ];
   return (
-    <section className="spad text-white gradient-bg">
+    <section id="projects" className="spad text-white gradient-bg">
       <Header>Our Projects</Header>
       <Container>
         <div className="grid mt-20 md:grid-cols-2 grid-cols-1 grid-rows-1 gap-5">

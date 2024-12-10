@@ -4,16 +4,16 @@ import { BiUser } from "react-icons/bi";
 function Fact() {
   const fact = [
     {
-      number: "300",
+      number: "100",
       text: (
         <>
           Community <br /> members
         </>
       ),
     },
-    { number: "40", text: <>Projects</>, icon: <BiUser /> },
+    { number: "30", text: <>Projects</>, icon: <BiUser /> },
     {
-      number: "10",
+      number: "6",
       text: (
         <>
           Team <br />
@@ -22,7 +22,7 @@ function Fact() {
       ),
     },
     {
-      number: "5",
+      number: "3",
       text: (
         <>
           Years of

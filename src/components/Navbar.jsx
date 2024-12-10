@@ -41,9 +41,9 @@ function Navbar() {
   return (
     <nav className="w-screen flex top-3 fixed  genty px-2 z-[1000] justify-center">
       <Container
-        className={`rounded-[30px] !px-5 duration-200 shadow-none bg-transparent scroller py-[11px] fx`}
+        className={`rounded-[30px] duration-200 shadow-none bg-transparent scroller py-[11px] flex justify-between sm:justify-around lg:justify-between items-center`}
       >
-        <div className=" flex-1 md:pl-4">
+        <div className=" md:pl-4">
           <Logo />
         </div>
         <div className="fx gap-6">

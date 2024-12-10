@@ -62,22 +62,22 @@ footer .links div h3 {
 @keyframes fadeInDown {
   from {
     opacity: 0;
-    /* transform: translateY(-20px); */
+    transform: translateY(-20px);
   }
   to {
     opacity: 1;
-    /* transform: translateY(0); */
+    transform: translateY(0);
   }
 }
 
 @keyframes fadeOutDown {
   from {
     opacity: 1;
-    /* transform: translateY(0); */
+    transform: translateY(0);
   }
   to {
     opacity: 0;
-    /* transform: translateY(20px); */
+    transform: translateY(20px);
   }
 }
 
@@ -94,7 +94,7 @@ footer .links div h3 {
 }
 .review-text-slider .owl-prev,
 .review-text-slider .owl-next {
-  @apply !bg-black/10 !font-[genty];
+  @apply !bg-black/10 !font-[genty] !font-bold !text-3xl !text-white;
 }
 .author-meta {
   @apply flex justify-center;
@@ -122,4 +122,18 @@ footer .links div h3 {
     opacity: 0;
     /* transform: translateY(20px); */
   }
+}
+.contain {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+@media (min-width: 768px) {
+  .contain {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+  }
+}
+.contain.service {
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
 }

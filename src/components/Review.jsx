@@ -4,6 +4,7 @@ import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
 import Image from "./Image";
+import { BiCaretLeft } from "react-icons/bi";
 
 function Review() {
   // References for both sliders
@@ -27,12 +28,15 @@ function Review() {
     }
   };
 
+  let nav = true;
+  let left = <BiCaretLeft />;
+
   return (
-    <section className="review-section bg-c2 spad">
+    <section id="Our users" className="review-section bg-c2 spad">
       <div className="container">
         <Header className={"!mb-9"}>What our users say</Header>
         <div className="row">
-          <div className="col-lg-8 push-8">
+          <div className="col-lg-8 mb-14 lg:mb-0 push-8">
             <img src="img/quote.png" alt="" className="quote mb-5" />
             <OwlCarousel
               ref={reviewTextSlider}
@@ -44,7 +48,7 @@ function Review() {
               margin={20}
               onChange={onReviewTextChange}
               autoplay
-              navText={["<", ">"]}
+              navText={[`‹`, "›"]}
               animateOut="fadeOutDown"
               animateIn="fadeInDown"
             >

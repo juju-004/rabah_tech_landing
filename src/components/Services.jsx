@@ -9,8 +9,8 @@ function Services() {
     "Final year project work & writing",
   ];
   return (
-    <section className="about-section spad">
-      <Container>
+    <section id="services" className="about-section spad">
+      <Container className={"service"}>
         <div className="row items-center">
           <div className="col-md-6">
             <img src="img/serviceImg.svg" alt="" />
