@@ -1,20 +1,16 @@
-import React, { useEffect } from "react";
-import Hero from "./components/Hero";
-import Services from "./components/Services";
+import { useEffect } from "react";
 import Projects from "./components/Projects";
-import Choose from "./components/Choose";
-import Team from "./components/Team";
-import Fact from "./components/Fact";
-import Review from "./components/Review";
-import Footer from "./components/Footer";
-import Navbar from "./components/Navbar";
+import { BrowserRouter } from "react-router-dom";
+import Project from "./screens/Project";
+import Dashboard from "./screens/Dashboard";
+import Layout from "./screens/Layout";
+import { Route } from "react-router-dom";
+import { Routes } from "react-router-dom";
 
 function App() {
   useEffect(() => {
-    //  const loader = document.querySelector(".loader");
     const preloder = document.querySelector("#preloder");
 
-    //  if (loader) loader.style.display = "none";
     if (preloder) {
       preloder.classList.add("fadeOut");
       setTimeout(() => {
@@ -24,21 +20,17 @@ function App() {
   }, []);
 
   return (
-    <>
+    <BrowserRouter>
       <div id="preloder" className="">
         <div class="loader"></div>
       </div>
-
-      <Navbar />
-      <Hero />
-      <Choose />
-      <Services />
-      <Projects />
-      <Review />
-      <Team />
-      <Fact />
-      <Footer />
-    </>
+      <Routes>
+        <Route path="/" element={<Layout />}>
+          <Route index element={<Dashboard />} /> {/* Index route for "/" */}
+          <Route path="projects" element={<Project />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
   );
 }
 

@@ -33,6 +33,9 @@ body {
 .genty {
   @apply font-[genty];
 }
+footer .links span {
+  @apply text-c2 cursor-pointer;
+}
 
 h2.heading {
   line-height: 1;

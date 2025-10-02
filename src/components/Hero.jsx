@@ -23,7 +23,6 @@ function Hero() {
             <div className="w-full grid grid-cols-1 lg:grid-cols-2 gap-2 grid-rows-2 h-[400px]">
               {images.map((i, key) => {
                 let className = (key + 1) % 2 === 0 ? "hidden lg:block" : "";
-                console.log((key + 1) % 2 === 0, key);
                 return (
                   <div
                     className={`row-span-1 col-span-1 ${className}`}

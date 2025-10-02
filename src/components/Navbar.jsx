@@ -1,5 +1,4 @@
 import React, { useEffect } from "react";
-import { Link } from "react-scroll";
 import Container from "./shared/Container";
 import {
   BiLogoInstagram,
@@ -44,7 +43,9 @@ function Navbar() {
         className={`rounded-[30px] duration-200 shadow-none bg-transparent scroller py-[11px] flex justify-between sm:justify-around lg:justify-between items-center`}
       >
         <div className=" md:pl-4">
-          <Logo />
+          <a href={"#"} style={{ textDecoration: "none" }}>
+            <Logo />
+          </a>
         </div>
         <div className="fx gap-6">
           <div className="lg:flex hidden justify-center items-center none pt-1 gap-4 px-2">
@@ -52,15 +53,12 @@ function Navbar() {
               <>
                 {key ? <span className="opacity-20">|</span> : <></>}
                 <span key={key} className="nav-item">
-                  <Link
-                    to={item}
-                    spy={true}
-                    smooth={true}
-                    duration={500}
+                  <a
+                    href={`#${item}`}
                     className="nav-link cursor-pointer active:text-blue-600 text-white duration-300 scale-100 capitalize"
                   >
                     {item}
-                  </Link>
+                  </a>
                 </span>
               </>
             ))}

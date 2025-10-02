@@ -11,7 +11,7 @@ function Footer() {
             <Logo />
           </div>
           <div className="col-md-6">
-            <div className="row links !text-c3">
+            <div className="row links text-c3">
               <div className="col-md-6 mt-14 md:mt-0">
                 <h3>Quick Links</h3>
                 <span>Projects</span>

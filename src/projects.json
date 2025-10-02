@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Agrohub",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A web platform to connect farmers, buyers, and suppliers for efficient agricultural trade."
+  },
+  {
+    "name": "AutoMobile Diagnostics",
+    "stack": "Nextjs, Radix UI, MongoDB",
+    "description": "A backend service for diagnosing vehicle issues and managing repair history."
+  },
+  {
+    "name": "HealthCare (Blockchain)",
+    "stack": "React, Firebase",
+    "description": "A blockchain-powered healthcare app for secure patient record management."
+  },
+  {
+    "name": "Civil Intelligence System",
+    "stack": "React, TailwindCSS",
+    "description": "A civic management app that collects and analyzes data for public infrastructure and services."
+  },
+  {
+    "name": "Costing Analysis",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A mobile app that helps businesses analyze and optimize their operational costs."
+  },
+  {
+    "name": "Court Management System",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A digital system to manage court cases, schedules, and records efficiently."
+  },
+  {
+    "name": "Decision Management System",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A decision-support app for businesses to streamline planning and strategy execution."
+  },
+  {
+    "name": "University Fileshare System",
+    "stack": "Nextjs, TailwindCSS, MongoDB, Cloudinary",
+    "description": "A platform for students and lecturers to securely share and access academic files."
+  },
+  {
+    "name": "Intrusion Prevention System",
+    "stack": "React, TailwindCSS",
+    "description": "A security-focused app to detect and prevent unauthorized access in networks."
+  },
+  {
+    "name": "Medical Consultancy AI",
+    "stack": "Nextjs, TailwindCSS",
+    "description": "An AI-powered app that provides medical advice and connects patients to doctors."
+  },
+  {
+    "name": "Hospital Management System",
+    "stack": "Nextjs, TailwindCSS, Firebase, Clerk",
+    "description": "A hospital-focused solution to manage patient records, visits, and treatments."
+  },
+  {
+    "name": "Pneumonia Treatment App",
+    "stack": "Nextjs, TailwindCSS",
+    "description": "A mobile app to help detect, monitor, and provide guidance on pneumonia treatment."
+  },
+  {
+    "name": "Real Estate App",
+    "stack": "React, TailwindCSS, MongoDB, Paystack",
+    "description": "A marketplace app for buying, selling, and renting real estate properties."
+  },
+  {
+    "name": "Child Abuse Report System",
+    "stack": "Nextjs, TailwindCSS",
+    "description": "A secure reporting platform for child abuse cases with real-time alerts to authorities."
+  },
+  {
+    "name": "Farm Management System",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A mobile tool to track farming activities, crop cycles, and resource allocation."
+  },
+  {
+    "name": "Medical Symptoms AI System",
+    "stack": "Nextjs, TailwindCSS",
+    "description": "An AI-driven system that analyzes symptoms to provide probable diagnoses and recommendations."
+  },
+  {
+    "name": "Complaint Management System",
+    "stack": "PHP",
+    "description": "An application for organizations to track, manage, and resolve customer complaints."
+  },
+  {
+    "name": "Company Crime Tracking System",
+    "stack": "PHP",
+    "description": "A monitoring system to track and report corporate crime incidents."
+  },
+  {
+    "name": "Stock Management System",
+    "stack": "PHP",
+    "description": "A warehouse inventory and stock control solution for businesses."
+  },
+  {
+    "name": "Human Resource Management System",
+    "stack": "PHP",
+    "description": "An HR tool to manage employee records, payroll, and recruitment processes."
+  },
+  {
+    "name": "Warehouse Management System",
+    "stack": "PHP",
+    "description": "A logistics system to monitor stock movement and optimize warehouse operations."
+  }
+]
