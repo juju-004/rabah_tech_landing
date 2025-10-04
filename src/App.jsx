@@ -6,6 +6,7 @@ import Dashboard from "./screens/Dashboard";
 import Layout from "./screens/Layout";
 import { Route } from "react-router-dom";
 import { Routes } from "react-router-dom";
+import NotFound from "./screens/NotFound";
 
 function App() {
   useEffect(() => {
@@ -27,7 +28,8 @@ function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Dashboard />} /> {/* Index route for "/" */}
-          <Route path="projects" element={<Project />} />
+          <Route path="/projects" element={<Project />} />
+          <Route path="/*" element={<NotFound />} />
         </Route>
       </Routes>
     </BrowserRouter>
