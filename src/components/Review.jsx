@@ -4,10 +4,8 @@ import OwlCarousel from "react-owl-carousel";
 import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.default.css";
 import Image from "./Image";
-import { BiCaretLeft } from "react-icons/bi";
 
 function Review() {
-  // References for both sliders
   const reviewTextSlider = useRef(null);
   const reviewMetaSlider = useRef(null);
 
@@ -15,10 +13,14 @@ function Review() {
     {
       name: "Tito",
       title: "Graduate of computer science",
-      img: "img/review/img(1).png",
+      img: "img/review/img(2).png",
     },
-    { name: "Clara", title: "Founder", img: "img/review/img(2).png" },
-    { name: "Jibril", title: "Technician", img: "img/review/img(3).png" },
+    { name: "Clara", title: "IT Technician", img: "img/review/img(1).png" },
+    {
+      name: "Julian",
+      title: "Graduate of computer science",
+      img: "img/review/img(3).png",
+    },
   ];
 
   // Sync sliders on text slider change
@@ -27,9 +29,6 @@ function Review() {
       reviewMetaSlider.current.next();
     }
   };
-
-  let nav = true;
-  let left = <BiCaretLeft />;
 
   return (
     <section id="Our users" className="review-section bg-c2 spad">

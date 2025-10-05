@@ -1,9 +1,7 @@
 import React from "react";
 import Header from "./shared/Header";
 import Container from "./shared/Container";
-import { BiLogoFacebook, BiLogoTwitter, BiLogoGithub } from "react-icons/bi";
 import OwlCarousel from "react-owl-carousel";
-// import "owl.carousel/dist/assets/owl.carousel.css";
 import "owl.carousel/dist/assets/owl.theme.green.css";
 
 function Team() {

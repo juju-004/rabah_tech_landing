@@ -2,106 +2,595 @@
   {
     "name": "Agrohub",
     "stack": "Nextjs, TailwindCSS, MongoDB",
-    "description": "A web platform to connect farmers, buyers, and suppliers for efficient agricultural trade."
+    "description": "A web platform to connect farmers, buyers, and suppliers for efficient agricultural trade.",
+    "topic": "Design and Implementation of an Online Agricultural Trading Platform (Agrohub)"
   },
   {
     "name": "AutoMobile Diagnostics",
     "stack": "Nextjs, Radix UI, MongoDB",
-    "description": "A backend service for diagnosing vehicle issues and managing repair history."
+    "description": "A backend service for diagnosing vehicle issues and managing repair history.",
+    "topic": "Development of an Intelligent Automobile Diagnostic and Repair Management System"
   },
   {
     "name": "HealthCare (Blockchain)",
     "stack": "React, Firebase",
-    "description": "A blockchain-powered healthcare app for secure patient record management."
+    "description": "A blockchain-powered healthcare app for secure patient record management.",
+    "topic": "Design of a Secure Healthcare Record System Using Blockchain Technology"
   },
   {
     "name": "Civil Intelligence System",
     "stack": "React, TailwindCSS",
-    "description": "A civic management app that collects and analyzes data for public infrastructure and services."
+    "description": "A civic management app that collects and analyzes data for public infrastructure and services.",
+    "topic": "Development of a Civil Intelligence System for Public Infrastructure Data Management"
   },
   {
     "name": "Costing Analysis",
     "stack": "Nextjs, TailwindCSS, MongoDB",
-    "description": "A mobile app that helps businesses analyze and optimize their operational costs."
+    "description": "A mobile app that helps businesses analyze and optimize their operational costs.",
+    "topic": "Design and Implementation of a Business Cost Analysis and Optimization Platform"
   },
   {
     "name": "Court Management System",
     "stack": "Nextjs, TailwindCSS, MongoDB",
-    "description": "A digital system to manage court cases, schedules, and records efficiently."
+    "description": "A digital system to manage court cases, schedules, and records efficiently.",
+    "topic": "Development of a Digital Court Management and Case Scheduling System"
   },
   {
     "name": "Decision Management System",
     "stack": "Nextjs, TailwindCSS, MongoDB",
-    "description": "A decision-support app for businesses to streamline planning and strategy execution."
+    "description": "A decision-support app for businesses to streamline planning and strategy execution.",
+    "topic": "Design and Implementation of a Decision Management System for Business Strategy Optimization"
   },
   {
     "name": "University Fileshare System",
     "stack": "Nextjs, TailwindCSS, MongoDB, Cloudinary",
-    "description": "A platform for students and lecturers to securely share and access academic files."
+    "description": "A platform for students and lecturers to securely share and access academic files.",
+    "topic": "Design and Implementation of a University Academic File Sharing Platform"
   },
   {
     "name": "Intrusion Prevention System",
     "stack": "React, TailwindCSS",
-    "description": "A security-focused app to detect and prevent unauthorized access in networks."
+    "description": "A security-focused app to detect and prevent unauthorized access in networks.",
+    "topic": "Development of an Intrusion Prevention System for Network Security Enhancement"
   },
   {
     "name": "Medical Consultancy AI",
     "stack": "Nextjs, TailwindCSS",
-    "description": "An AI-powered app that provides medical advice and connects patients to doctors."
+    "description": "An AI-powered app that provides medical advice and connects patients to doctors.",
+    "topic": "Implementation of an AI-Powered Medical Consultancy and Patient Connection System"
   },
   {
     "name": "Hospital Management System",
     "stack": "Nextjs, TailwindCSS, Firebase, Clerk",
-    "description": "A hospital-focused solution to manage patient records, visits, and treatments."
+    "description": "A hospital-focused solution to manage patient records, visits, and treatments.",
+    "topic": "Design and Implementation of a Hospital Management and Patient Record System"
   },
   {
     "name": "Pneumonia Treatment App",
     "stack": "Nextjs, TailwindCSS",
-    "description": "A mobile app to help detect, monitor, and provide guidance on pneumonia treatment."
+    "description": "A mobile app to help detect, monitor, and provide guidance on pneumonia treatment.",
+    "topic": "Development of a Pneumonia Detection and Treatment Assistance Mobile Application"
   },
   {
     "name": "Real Estate App",
     "stack": "React, TailwindCSS, MongoDB, Paystack",
-    "description": "A marketplace app for buying, selling, and renting real estate properties."
+    "description": "A marketplace app for buying, selling, and renting real estate properties.",
+    "topic": "Design and Implementation of a Real Estate Marketplace with Online Payment Integration"
   },
   {
     "name": "Child Abuse Report System",
     "stack": "Nextjs, TailwindCSS",
-    "description": "A secure reporting platform for child abuse cases with real-time alerts to authorities."
+    "description": "A secure reporting platform for child abuse cases with real-time alerts to authorities.",
+    "topic": "Development of a Child Abuse Reporting and Alert Management System"
   },
   {
     "name": "Farm Management System",
     "stack": "Nextjs, TailwindCSS, MongoDB",
-    "description": "A mobile tool to track farming activities, crop cycles, and resource allocation."
+    "description": "A mobile tool to track farming activities, crop cycles, and resource allocation.",
+    "topic": "Design and Implementation of a Farm Management and Resource Monitoring System"
   },
   {
     "name": "Medical Symptoms AI System",
     "stack": "Nextjs, TailwindCSS",
-    "description": "An AI-driven system that analyzes symptoms to provide probable diagnoses and recommendations."
+    "description": "An AI-driven system that analyzes symptoms to provide probable diagnoses and recommendations.",
+    "topic": "Development of an AI-Driven Medical Symptom Analysis and Diagnosis Recommendation System"
   },
   {
     "name": "Complaint Management System",
     "stack": "PHP",
-    "description": "An application for organizations to track, manage, and resolve customer complaints."
+    "description": "An application for organizations to track, manage, and resolve customer complaints.",
+    "topic": "Design and Implementation of a Customer Complaint Tracking and Resolution Management System"
   },
   {
     "name": "Company Crime Tracking System",
     "stack": "PHP",
-    "description": "A monitoring system to track and report corporate crime incidents."
+    "description": "A monitoring system to track and report corporate crime incidents.",
+    "topic": "Development of a Corporate Crime Monitoring and Reporting System"
   },
   {
     "name": "Stock Management System",
     "stack": "PHP",
-    "description": "A warehouse inventory and stock control solution for businesses."
+    "description": "A warehouse inventory and stock control solution for businesses.",
+    "topic": "Design and Implementation of an Inventory and Stock Management System"
   },
   {
     "name": "Human Resource Management System",
     "stack": "PHP",
-    "description": "An HR tool to manage employee records, payroll, and recruitment processes."
+    "description": "An HR tool to manage employee records, payroll, and recruitment processes.",
+    "topic": "Development of a Human Resource Management and Payroll Processing System"
   },
   {
     "name": "Warehouse Management System",
     "stack": "PHP",
-    "description": "A logistics system to monitor stock movement and optimize warehouse operations."
+    "description": "A logistics system to monitor stock movement and optimize warehouse operations.",
+    "topic": "Design and Implementation of a Warehouse Management and Logistics Optimization System"
+  },
+  {
+    "name": "Event Booking System",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A web app for users to book tickets for events, concerts, and seminars.",
+    "topic": "Design and Implementation of an Online Event Booking and Ticket Management System"
+  },
+  {
+    "name": "Student Result Portal",
+    "stack": "React, TailwindCSS, Firebase",
+    "description": "A digital platform for students to access grades and academic performance reports.",
+    "topic": "Development of a Secure Online Student Result Management Portal"
+  },
+  {
+    "name": "Online Food Ordering System",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A simple food delivery web app that connects restaurants and customers.",
+    "topic": "Design and Implementation of an Online Food Ordering and Delivery Platform"
+  },
+  {
+    "name": "E-Library Management System",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "An online digital library for reading and borrowing e-books.",
+    "topic": "Design and Implementation of an Electronic Library Management System"
+  },
+  {
+    "name": "School Attendance System",
+    "stack": "React, Firebase",
+    "description": "An attendance tracking system for students using QR code or manual entry.",
+    "topic": "Development of a Digital Attendance Monitoring and Reporting System"
+  },
+  {
+    "name": "Job Recruitment Portal",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A platform for companies to post job listings and applicants to apply.",
+    "topic": "Design and Implementation of an Online Job Recruitment and Application Management System"
+  },
+  {
+    "name": "E-Commerce Store",
+    "stack": "Nextjs, TailwindCSS, MongoDB, Paystack",
+    "description": "A simple online shop for selling products with payment integration.",
+    "topic": "Design and Implementation of an E-Commerce Website with Online Payment Integration"
+  },
+  {
+    "name": "Portfolio Builder",
+    "stack": "Nextjs, TailwindCSS",
+    "description": "A platform where users can build and host their personal portfolio websites.",
+    "topic": "Development of an Online Portfolio Creation and Hosting Platform"
+  },
+  {
+    "name": "Online Quiz Platform",
+    "stack": "React, TailwindCSS, Firebase",
+    "description": "A quiz app for creating, taking, and grading quizzes automatically.",
+    "topic": "Design and Implementation of an Interactive Online Quiz Application"
+  },
+  {
+    "name": "Inventory Tracker",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A web tool to track product inventory and stock levels for small businesses.",
+    "topic": "Development of an Inventory Tracking and Stock Level Management System"
+  },
+  {
+    "name": "Online Voting System",
+    "stack": "Nextjs, TailwindCSS, Firebase",
+    "description": "A secure web app that allows online voting and result tallying.",
+    "topic": "Design and Implementation of a Secure Online Voting and Result Management System"
+  },
+  {
+    "name": "Expense Tracker App",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A personal finance tracker to record income and expenses.",
+    "topic": "Development of a Personal Finance and Expense Tracking System"
+  },
+  {
+    "name": "Travel Booking Platform",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A booking app for trips, hotels, and tours with map integration.",
+    "topic": "Design and Implementation of an Online Travel and Hotel Booking System"
+  },
+  {
+    "name": "Online Learning Platform",
+    "stack": "Nextjs, TailwindCSS, Firebase",
+    "description": "A platform for students to take courses, watch videos, and track progress.",
+    "topic": "Development of an E-Learning Platform for Online Course Delivery and Management"
+  },
+  {
+    "name": "Restaurant Table Reservation System",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A booking system for customers to reserve tables at restaurants.",
+    "topic": "Design and Implementation of an Online Restaurant Table Reservation System"
+  },
+  {
+    "name": "Chat Application",
+    "stack": "Nextjs, TailwindCSS, WebSocket",
+    "description": "A real-time chat app that supports one-on-one and group messaging.",
+    "topic": "Development of a Real-Time Web Chat Application Using WebSocket Technology"
+  },
+  {
+    "name": "Task Management System",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A project management tool to track tasks and team progress.",
+    "topic": "Design and Implementation of an Online Task and Project Management System"
+  },
+  {
+    "name": "News Aggregator",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A web app that collects and displays news from multiple sources.",
+    "topic": "Development of a Web-Based News Aggregation and Delivery Platform"
+  },
+  {
+    "name": "Online Appointment Booking System",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A scheduling app for booking appointments with professionals or doctors.",
+    "topic": "Design and Implementation of an Online Appointment Scheduling and Booking System"
+  },
+  {
+    "name": "Online Resume Builder",
+    "stack": "React, TailwindCSS, Firebase",
+    "description": "A resume creator that allows users to generate and download CVs easily.",
+    "topic": "Development of an Online Resume and CV Generation Platform"
+  },
+  {
+    "name": "Fitness Tracking App",
+    "stack": "Nextjs, TailwindCSS, Firebase",
+    "description": "An app to monitor workouts, nutrition, and progress tracking.",
+    "topic": "Design and Implementation of a Fitness Tracking and Progress Monitoring Application"
+  },
+  {
+    "name": "Donation Management System",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A platform to connect donors and NGOs for fundraising campaigns.",
+    "topic": "Development of an Online Donation and Charity Management System"
+  },
+  {
+    "name": "Weather Forecast App",
+    "stack": "React, TailwindCSS",
+    "description": "A web app that displays live weather forecasts and predictions.",
+    "topic": "Design and Implementation of a Web-Based Weather Forecast Application"
+  },
+  {
+    "name": "Online File Storage System",
+    "stack": "Nextjs, TailwindCSS, Firebase, Cloudinary",
+    "description": "A cloud-based file storage and sharing system for users.",
+    "topic": "Development of a Cloud-Based File Storage and Sharing System"
+  },
+  {
+    "name": "Student Course Registration System",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A web app for students to register and manage courses online.",
+    "topic": "Design and Implementation of an Online Student Course Registration and Management System"
+  },
+  {
+    "name": "Feedback Collection System",
+    "stack": "React, TailwindCSS, Firebase",
+    "description": "An online tool for gathering user or customer feedback.",
+    "topic": "Development of an Online Feedback Collection and Analysis System"
+  },
+  {
+    "name": "Blog Management Platform",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A CMS-style platform for writing and publishing blog posts.",
+    "topic": "Design and Implementation of a Blog Publishing and Management Platform"
+  },
+  {
+    "name": "Online Donation Tracker",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "A dashboard for NGOs to track donations and manage campaigns.",
+    "topic": "Development of an Online Donation Tracking and Fund Management System"
+  },
+  {
+    "name": "Online Marketplace",
+    "stack": "Nextjs, TailwindCSS, MongoDB, Paystack",
+    "description": "A general-purpose online store for buyers and sellers.",
+    "topic": "Design and Implementation of a Web-Based Marketplace for Product Exchange"
+  },
+  {
+    "name": "Online Booking System for Clinics",
+    "stack": "Nextjs, TailwindCSS, Firebase",
+    "description": "A web platform to schedule and manage clinic appointments.",
+    "topic": "Development of an Online Booking and Appointment Management System for Clinics"
+  },
+  {
+    "name": "Emotion Detection from Text",
+    "stack": "React, Flask, TensorFlow",
+    "description": "Detects emotions such as joy, anger, or sadness from user messages using NLP.",
+    "topic": "Design and Develop a Natural Language Emotion Detection System"
+  },
+  {
+    "name": "Fake News Detection System",
+    "stack": "Nextjs, Node.js, MongoDB",
+    "description": "Identifies misleading or fake news articles using machine learning.",
+    "topic": "Design and Develop a Fake News and Content Authenticity Checker"
+  },
+  {
+    "name": "Plant Disease Classifier",
+    "stack": "React, TensorFlow.js",
+    "description": "Analyzes plant leaf images to detect diseases and suggest treatments.",
+    "topic": "Design and Develop an AI-Based Plant Disease Detection Platform"
+  },
+  {
+    "name": "Resume Skill Extractor using NLP",
+    "stack": "Nextjs, Python, FastAPI",
+    "description": "Extracts key skills and experience from uploaded resumes using NLP.",
+    "topic": "Design and Develop an Automated Resume Analysis and Skill Extraction System"
+  },
+  {
+    "name": "Student Result Prediction System",
+    "stack": "React, Flask, Scikit-Learn",
+    "description": "Predicts student performance using academic and attendance data.",
+    "topic": "Design and Develop an AI-Based Student Performance Prediction System"
+  },
+  {
+    "name": "AI-Based Chat Support Assistant",
+    "stack": "Nextjs, OpenAI API",
+    "description": "Provides intelligent customer support through chat automation.",
+    "topic": "Design and Develop an AI-Powered Chatbot Support System"
+  },
+  {
+    "name": "Movie Recommendation Engine",
+    "stack": "React, Node.js, MongoDB",
+    "description": "Recommends movies to users based on their viewing history.",
+    "topic": "Design and Develop a Content-Based Movie Recommendation System"
+  },
+  {
+    "name": "Smart Attendance System",
+    "stack": "React, Python, OpenCV",
+    "description": "Automates attendance using face recognition and cloud storage.",
+    "topic": "Design and Develop a Face Recognition Attendance Tracker"
+  },
+  {
+    "name": "Handwritten Digit Recognition",
+    "stack": "React, Flask, TensorFlow",
+    "description": "Recognizes handwritten digits from user drawings using AI.",
+    "topic": "Design and Develop a Handwritten Digit Recognition System"
+  },
+  {
+    "name": "Personality Prediction using Social Media Data",
+    "stack": "Nextjs, Python, Flask",
+    "description": "Analyzes social media posts to predict user personality traits.",
+    "topic": "Design and Develop an AI-Based Personality Prediction System"
+  },
+  {
+    "name": "Inventory Management Dashboard",
+    "stack": "Nextjs, TailwindCSS, MongoDB",
+    "description": "Tracks and visualizes stock levels, purchases, and sales.",
+    "topic": "Design and Develop an Inventory Management Platform"
+  },
+  {
+    "name": "Expense Tracker Web App",
+    "stack": "React, TailwindCSS, LocalStorage",
+    "description": "Tracks daily expenses and visualizes spending patterns.",
+    "topic": "Design and Develop a Personal Expense Tracking and Budgeting App"
+  },
+  {
+    "name": "Freelance Job Matching Platform",
+    "stack": "Nextjs, MongoDB, TailwindCSS",
+    "description": "Connects freelancers with clients for project-based work.",
+    "topic": "Design and Develop an Online Freelance Job Matching Platform"
+  },
+  {
+    "name": "Startup Idea Evaluator",
+    "stack": "React, Firebase",
+    "description": "Helps entrepreneurs validate and score startup ideas.",
+    "topic": "Design and Develop a Startup Feasibility and Evaluation System"
+  },
+  {
+    "name": "Digital Invoice Generator",
+    "stack": "Nextjs, TailwindCSS",
+    "description": "Generates downloadable and shareable invoices online.",
+    "topic": "Design and Develop an Online Invoice Creation and Sharing Tool"
+  },
+  {
+    "name": "Loan Eligibility Predictor",
+    "stack": "React, Flask, Scikit-Learn",
+    "description": "Predicts whether a loan applicant is eligible based on input data.",
+    "topic": "Design and Develop an AI-Powered Loan Approval Prediction System"
+  },
+  {
+    "name": "CRM Tool for Small Businesses",
+    "stack": "Nextjs, MongoDB",
+    "description": "Manages customers, leads, and interactions in one dashboard.",
+    "topic": "Design and Develop a Customer Relationship Management Platform"
+  },
+  {
+    "name": "Client Feedback Analyzer",
+    "stack": "React, FastAPI, NLP.js",
+    "description": "Analyzes feedback text to find customer sentiment and satisfaction level.",
+    "topic": "Design and Develop a Sentiment Analysis System for Customer Feedback"
+  },
+  {
+    "name": "Business Performance Tracker",
+    "stack": "Nextjs, Chart.js, MongoDB",
+    "description": "Monitors KPIs and visualizes business growth metrics.",
+    "topic": "Design and Develop a Business Analytics and Performance Dashboard"
+  },
+  {
+    "name": "Online Portfolio Builder",
+    "stack": "React, TailwindCSS, Firebase",
+    "description": "Lets users create and host personal portfolios easily.",
+    "topic": "Design and Develop an Online Portfolio Builder for Creatives"
+  },
+  {
+    "name": "File Upload and Sharing Platform",
+    "stack": "Nextjs, Cloudinary, MongoDB",
+    "description": "Allows users to upload, store, and share files securely.",
+    "topic": "Design and Develop a Secure File Sharing Web Platform"
+  },
+  {
+    "name": "Password Vault",
+    "stack": "React, LocalStorage",
+    "description": "Stores and encrypts passwords locally for user privacy.",
+    "topic": "Design and Develop a Local Password Management App"
+  },
+  {
+    "name": "Blog CMS with Markdown Support",
+    "stack": "Nextjs, MongoDB",
+    "description": "A simple blog platform with Markdown writing and live preview.",
+    "topic": "Design and Develop a Markdown-Based Blogging System"
+  },
+  {
+    "name": "URL Shortener",
+    "stack": "React, Express, MongoDB",
+    "description": "Shortens long URLs and tracks click analytics.",
+    "topic": "Design and Develop a URL Shortening and Analytics Platform"
+  },
+  {
+    "name": "PDF Merger and Compressor Tool",
+    "stack": "React, Node.js",
+    "description": "Merges multiple PDFs and compresses file size online.",
+    "topic": "Design and Develop an Online PDF Management Utility"
+  },
+  {
+    "name": "Event Management Portal",
+    "stack": "Nextjs, MongoDB, TailwindCSS",
+    "description": "Organizes and promotes community or campus events.",
+    "topic": "Design and Develop an Event Scheduling and Registration System"
+  },
+  {
+    "name": "Campus Voting System",
+    "stack": "React, Firebase",
+    "description": "Enables secure online voting for student elections.",
+    "topic": "Design and Develop an Online Voting and Election Management System"
+  },
+  {
+    "name": "Blood Donation Finder",
+    "stack": "Nextjs, MongoDB, Leaflet",
+    "description": "Connects blood donors and seekers in nearby locations.",
+    "topic": "Design and Develop a Blood Donation and Emergency Connection Platform"
+  },
+  {
+    "name": "Lost and Found Platform",
+    "stack": "React, MongoDB",
+    "description": "Lets users report and recover lost items within communities.",
+    "topic": "Design and Develop a Community Lost and Found Web App"
+  },
+  {
+    "name": "Mentorship Matching App",
+    "stack": "Nextjs, Firebase",
+    "description": "Matches mentors and mentees based on skills and goals.",
+    "topic": "Design and Develop a Mentorship Connection and Learning Platform"
+  },
+  {
+    "name": "Community Forum",
+    "stack": "React, MongoDB",
+    "description": "A place for users to create topics, comment, and discuss.",
+    "topic": "Design and Develop an Online Community Forum Platform"
+  },
+  {
+    "name": "Complaint/Feedback Submission App",
+    "stack": "Nextjs, TailwindCSS",
+    "description": "Allows users to file complaints or feedback to organizations.",
+    "topic": "Design and Develop a Complaint Management and Feedback App"
+  },
+  {
+    "name": "Diet Recommendation System",
+    "stack": "React, Flask, ML",
+    "description": "Suggests diet plans based on health data and goals.",
+    "topic": "Design and Develop a Personalized Diet Recommendation System"
+  },
+  {
+    "name": "Stress Tracker Web App",
+    "stack": "Nextjs, Firebase",
+    "description": "Tracks user stress levels and provides calming exercises.",
+    "topic": "Design and Develop a Mental Wellness and Stress Monitoring App"
+  },
+  {
+    "name": "Heart Disease Risk Predictor",
+    "stack": "React, Flask, Scikit-Learn",
+    "description": "Predicts heart disease likelihood based on health inputs.",
+    "topic": "Design and Develop an AI-Driven Health Risk Prediction System"
+  },
+  {
+    "name": "Emergency Alert Web App",
+    "stack": "Nextjs, Firebase",
+    "description": "Sends quick alerts to contacts or authorities during emergencies.",
+    "topic": "Design and Develop an Online Emergency Notification System"
+  },
+  {
+    "name": "Fitness Progress Dashboard",
+    "stack": "React, Chart.js",
+    "description": "Tracks user workouts and displays fitness trends.",
+    "topic": "Design and Develop a Workout Tracking and Progress Visualization App"
+  },
+  {
+    "name": "Medicine Reminder App",
+    "stack": "React, LocalStorage",
+    "description": "Reminds users to take medicines at scheduled times.",
+    "topic": "Design and Develop a Personal Medicine Reminder System"
+  },
+  {
+    "name": "Symptom Checker",
+    "stack": "Nextjs, OpenAI API",
+    "description": "Helps users check symptoms and find possible conditions.",
+    "topic": "Design and Develop an AI-Powered Health Symptom Checking Tool"
+  },
+  {
+    "name": "Sleep Tracker and Analyzer",
+    "stack": "React, Chart.js, Firebase",
+    "description": "Monitors sleep hours and provides improvement suggestions.",
+    "topic": "Design and Develop a Sleep Tracking and Quality Analysis Platform"
+  },
+  {
+    "name": "Virtual First Aid Guide",
+    "stack": "React, TailwindCSS",
+    "description": "Provides first aid instructions for common health emergencies.",
+    "topic": "Design and Develop an Online Health and Safety Information Portal"
+  },
+  {
+    "name": "Mental Health Support Chatbot",
+    "stack": "Nextjs, OpenAI API",
+    "description": "Offers friendly, conversational mental health support.",
+    "topic": "Design and Develop an AI Chatbot for Mental Health Awareness"
+  },
+  {
+    "name": "Scholarship Finder App",
+    "stack": "React, Firebase",
+    "description": "Finds scholarships based on user’s country and academic level.",
+    "topic": "Design and Develop a Global Scholarship Search and Filter Platform"
+  },
+  {
+    "name": "Online Resume Builder",
+    "stack": "Nextjs, TailwindCSS",
+    "description": "Helps students design and export professional resumes.",
+    "topic": "Design and Develop an Online Resume Creation and Export Tool"
+  },
+  {
+    "name": "Portfolio Template Marketplace",
+    "stack": "Nextjs, MongoDB",
+    "description": "A platform where users can buy and customize portfolio templates.",
+    "topic": "Design and Develop a Portfolio Template Sharing and Marketplace"
+  },
+  {
+    "name": "Virtual Classroom App",
+    "stack": "React, Firebase",
+    "description": "A simple virtual classroom with real-time messaging and resources.",
+    "topic": "Design and Develop an Online Learning and Collaboration Platform"
+  },
+  {
+    "name": "Code Snippet Organizer",
+    "stack": "Nextjs, TailwindCSS",
+    "description": "Stores reusable code snippets with tags and search.",
+    "topic": "Design and Develop a Developer Code Snippet Management Tool"
+  },
+  {
+    "name": "Quiz Builder and Player",
+    "stack": "React, LocalStorage",
+    "description": "Allows users to create and take quizzes with scoring.",
+    "topic": "Design and Develop an Interactive Quiz Creation and Participation System"
   }
 ]

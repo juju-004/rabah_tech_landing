@@ -1,10 +1,6 @@
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 import Container from "./shared/Container";
-import {
-  BiLogoInstagram,
-  BiLogoWhatsapp,
-  BiLogoFacebook,
-} from "react-icons/bi";
+import { BiLogoWhatsapp, BiLogoFacebook, BiLogoYoutube } from "react-icons/bi";
 import Logo from "./shared/Logo";
 
 function Navbar() {
@@ -13,11 +9,17 @@ function Navbar() {
     {
       icon: <BiLogoFacebook />,
       className: "bg-blue-500",
+      link: "https://www.facebook.com/profile.php?id=61564479796384",
     },
-    { icon: <BiLogoWhatsapp />, className: "bg-green-500" },
     {
-      icon: <BiLogoInstagram />,
-      className: "from-purple-600 to-orange-400 bg-gradient-to-br",
+      icon: <BiLogoWhatsapp />,
+      className: "bg-green-500",
+      link: "https://wa.me/2347036869758?text=Hi%20there!%20I%27d%20like%20to%20chat%20with%20you.",
+    },
+    {
+      icon: <BiLogoYoutube className="text-red-600" />,
+      className: "bg-white",
+      link: "https://www.youtube.com/@RabahTechDev",
     },
   ];
 
@@ -43,7 +45,7 @@ function Navbar() {
         className={`rounded-[30px] duration-200 shadow-none bg-transparent scroller py-[11px] flex justify-between sm:justify-around lg:justify-between items-center`}
       >
         <div className=" md:pl-4">
-          <a href={"#"} style={{ textDecoration: "none" }}>
+          <a href={"/#"} style={{ textDecoration: "none" }}>
             <Logo />
           </a>
         </div>
@@ -65,13 +67,19 @@ function Navbar() {
           </div>
           <div className="fx gap-3">
             {icons.map((i, key) => (
-              <button
-                className={`w-7 h-7 duration-150 hover:scale-105 active:scale-75 active:rotate-2 hover:rotate-2 relative rounded-lg fx text-white text-xl overflow-hidden ${i.className}`}
-                key={key}
+              <a
+                href={i.link ?? "google.com"}
+                target="_blank"
+                rel="noopener noreferrer"
               >
-                {i.icon}
-                <span className="absolute h-1/2 w-full bg-black/10 z-10 bottom-0"></span>
-              </button>
+                <button
+                  className={`w-7 h-7 duration-150 hover:scale-105 active:scale-75 active:rotate-2 hover:rotate-2 relative rounded-lg fx text-white text-xl overflow-hidden ${i.className}`}
+                  key={key}
+                >
+                  {i.icon}
+                  <span className="absolute h-1/2 w-full bg-black/10 z-10 bottom-0"></span>
+                </button>
+              </a>
             ))}
           </div>
         </div>

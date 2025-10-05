@@ -1,5 +1,4 @@
 import { useEffect } from "react";
-import Projects from "./components/Projects";
 import { BrowserRouter } from "react-router-dom";
 import Project from "./screens/Project";
 import Dashboard from "./screens/Dashboard";
