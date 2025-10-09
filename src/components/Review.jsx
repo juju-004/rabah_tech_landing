@@ -31,7 +31,7 @@ function Review() {
   };
 
   return (
-    <section id="Our users" className="review-section bg-c2 spad">
+    <section id="Testimonials" className="review-section bg-c2 spad">
       <div className="container">
         <Header className={"!mb-9"}>What our users say</Header>
         <div className="row">

@@ -2,6 +2,7 @@ import React from "react";
 import Header from "./shared/Header";
 import Container from "./shared/Container";
 import Image from "./Image";
+import { BiArrowToTop, BiUpArrow, BiUpArrowAlt } from "react-icons/bi";
 
 function Projects() {
   let projects = [
@@ -18,7 +19,7 @@ function Projects() {
   ];
   return (
     <section id="projects" className="spad text-white gradient-bg">
-      <Header>Our Projects</Header>
+      <Header>Projects & Seminars</Header>
       <Container>
         <div className="grid mt-20 md:grid-cols-2 grid-cols-1 grid-rows-1 gap-5">
           {projects.map((p, k) => (
@@ -44,12 +45,19 @@ function Projects() {
           ))}
         </div>
       </Container>
-      <div className="genty text-center w-full mt-6">
-        Visit our{" "}
-        <a href="/projects" className="!text-blue-900 hover:underline">
-          projects
-        </a>{" "}
-        main page to view more
+      <div className="text-center w-full gap-5 fx mt-6">
+        <a
+          href="/project-topics"
+          className="bg-white/15 fx hover:bg-white/25 hover:no-underline hover:text-white hover:scale-105 active:scale-95 duration-150 py-3 rounded-full px-5"
+        >
+          Projects topics <BiUpArrowAlt className="rotate-45" />
+        </a>
+        <a
+          href="/seminar-topics"
+          className="bg-white/15 fx hover:bg-white/25 hover:no-underline hover:text-white hover:scale-105 active:scale-95 duration-150 py-3 rounded-full px-5"
+        >
+          Seminar topics <BiUpArrowAlt className="rotate-45" />
+        </a>
       </div>
     </section>
   );

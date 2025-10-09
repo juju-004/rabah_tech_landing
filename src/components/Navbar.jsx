@@ -4,7 +4,7 @@ import { BiLogoWhatsapp, BiLogoFacebook, BiLogoYoutube } from "react-icons/bi";
 import Logo from "./shared/Logo";
 
 function Navbar() {
-  const links = ["services", "projects", "Our users", "team"];
+  const links = ["services", "projects & seminars", "Testimonials", "team"];
   const icons = [
     {
       icon: <BiLogoFacebook />,
@@ -56,8 +56,8 @@ function Navbar() {
                 {key ? <span className="opacity-20">|</span> : <></>}
                 <span key={key} className="nav-item">
                   <a
-                    href={`#${item}`}
-                    className="nav-link cursor-pointer active:text-blue-600 text-white duration-300 scale-100 capitalize"
+                    href={`/#${item.split(" ")[0]}`}
+                    className="nav-link cursor-pointer rbh active:text-blue-600 text-white duration-300 scale-100 capitalize"
                   >
                     {item}
                   </a>

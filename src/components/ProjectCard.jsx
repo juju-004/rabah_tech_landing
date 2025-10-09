@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
-import projects from "../projects.json";
 
-export default function ProjectCards({ className = "" }) {
+export default function ProjectCards({ className = "", projects }) {
   const sortedProjects = [...projects].sort((a, b) =>
     a.name.localeCompare(b.name)
   );
@@ -46,7 +45,7 @@ export default function ProjectCards({ className = "" }) {
       >
         {currentProjects.map((item, key) => (
           <article
-            key={item.name}
+            key={key}
             role="button"
             tabIndex={0}
             onClick={() => handleWhatsAppChat(item.topic || item.name)}
@@ -65,12 +64,16 @@ export default function ProjectCards({ className = "" }) {
             <p className="text-base text-gray-700 mb-3 line-clamp-3">
               {item.description}
             </p>
-            <p className="text-base text-c3 mb-3 line-clamp-3">
-              Topic: {item.topic}
-            </p>
-            <div className="mt-auto text-xs font-medium text-indigo-400">
-              {item.stack}
-            </div>
+            {item?.topic && (
+              <p className="text-base text-c3 mb-3 line-clamp-3">
+                Topic: {item.topic}
+              </p>
+            )}
+            {item?.stack && (
+              <div className="mt-auto text-xs font-medium text-indigo-400">
+                {item.stack}
+              </div>
+            )}
           </article>
         ))}
       </div>

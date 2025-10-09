@@ -20,7 +20,7 @@ function Footer() {
   ];
 
   return (
-    <footer className=" bg-black/20 text-center w-full py-10">
+    <footer className=" bg-c3/30 text-center w-full py-10">
       <Container>
         <div className="row">
           <div className="col-md-6 font-bold flex items-start text-5xl">
@@ -32,12 +32,16 @@ function Footer() {
                 <h3>Quick Links</h3>
                 <Link
                   className="hover:text-c1 text-c2 hover:no-underline duration-150"
-                  to={"/projects"}
+                  to={"/project-topics"}
                 >
                   Projects
                 </Link>
-                <span>Terms of service</span>
-                <span>Privacy Policy</span>
+                <Link
+                  className="hover:text-c1 text-c2 hover:no-underline duration-150"
+                  to={"/seminar-topics"}
+                >
+                  Seminar topics
+                </Link>
                 <span>About Us</span>
               </div>
               <div className="col-md-6 mt-14 md:mt-0">

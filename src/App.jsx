@@ -1,11 +1,13 @@
 import { useEffect } from "react";
 import { BrowserRouter } from "react-router-dom";
-import Project from "./screens/Project";
 import Dashboard from "./screens/Dashboard";
 import Layout from "./screens/Layout";
 import { Route } from "react-router-dom";
 import { Routes } from "react-router-dom";
 import NotFound from "./screens/NotFound";
+import Topics from "./screens/Topics";
+import projects from "./projects.json";
+import seminars from "./seminar.json";
 
 function App() {
   useEffect(() => {
@@ -27,7 +29,14 @@ function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Dashboard />} /> {/* Index route for "/" */}
-          <Route path="/projects" element={<Project />} />
+          <Route
+            path="/project-topics"
+            element={<Topics header={"Projects"} data={projects} />}
+          />
+          <Route
+            path="/seminar-topics"
+            element={<Topics header={"Seminar topics"} data={seminars} />}
+          />
           <Route path="/*" element={<NotFound />} />
         </Route>
       </Routes>
