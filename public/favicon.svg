@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg width="210mm" height="208mm" version="1.1" viewBox="0 0 210 208" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient2" x1="21.098" x2="191.51" y1="168.79" y2="168.79" gradientTransform="matrix(1.0563 0 0 1.1241 29.375 -67.305)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#3e31cf" offset="0"/>
+   <stop stop-color="#2daed3" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(0 -50.852)" stroke-linecap="round" stroke-linejoin="round">
+  <rect transform="rotate(15)" x="51.66" y="32.425" width="180" height="180" rx="48.258" ry="48.258" fill="url(#linearGradient2)" stroke-width=".2883" style="paint-order:stroke fill markers"/>
+  <text transform="scale(1.1836 .84485)" x="61.003315" y="220.4019" fill="#fdfdfd" font-family="'Bauhaus 93'" font-size="149.01px" stroke-width=".77612" style="paint-order:stroke fill markers" xml:space="preserve"><tspan x="61.003315" y="220.4019" font-family="'Bauhaus 93'" stroke-width=".77612">r</tspan></text>
+ </g>
+</svg>
