@@ -45,16 +45,16 @@ function Projects() {
           ))}
         </div>
       </Container>
-      <div className="text-center w-full gap-5 fx mt-6">
+      <div className="text-center w-full gap-5 px-3 fx mt-6">
         <a
           href="/project-topics"
-          className="bg-white/15 fx hover:bg-white/25 hover:no-underline hover:text-white hover:scale-105 active:scale-95 duration-150 py-3 rounded-full px-5"
+          className="bg-white/15 fx hover:bg-white/25 hover:no-underline hover:text-white hover:scale-105 active:scale-95 duration-150 py-3 rounded-full px-2 sm:px-5"
         >
           Projects topics <BiUpArrowAlt className="rotate-45" />
         </a>
         <a
           href="/seminar-topics"
-          className="bg-white/15 fx hover:bg-white/25 hover:no-underline hover:text-white hover:scale-105 active:scale-95 duration-150 py-3 rounded-full px-5"
+          className="bg-white/15 fx hover:bg-white/25 hover:no-underline hover:text-white hover:scale-105 active:scale-95 duration-150 py-3 rounded-full px-2 sm:px-5"
         >
           Seminar topics <BiUpArrowAlt className="rotate-45" />
         </a>
