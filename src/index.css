@@ -4,8 +4,11 @@
 
 html,
 body {
-  @apply overflow-x-hidden;
   scroll-behavior: smooth;
+}
+
+section {
+  @apply overflow-x-hidden;
 }
 
 *,
