@@ -2,7 +2,7 @@ import React from "react";
 import Header from "../components/shared/Header";
 import ProjectCards from "../components/ProjectCard";
 
-function Topics({ header, data }) {
+function Topics({ header, data, isSeminar = false }) {
   return (
     <>
       <section className="flex gradient-bg pt-32 flex-col justify-center">
@@ -12,7 +12,7 @@ function Topics({ header, data }) {
       </section>
       <section className="flex flex-col justify-center">
         <div className="container pt-6 pb-32 min-h-[80vh]">
-          <ProjectCards projects={data} />
+          <ProjectCards projects={data} isSeminar={isSeminar} />
         </div>
       </section>
     </>

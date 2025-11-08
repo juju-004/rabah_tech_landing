@@ -1,6 +1,10 @@
 import React, { useMemo, useState } from "react";
 
-export default function ProjectCards({ className = "", projects }) {
+export default function ProjectCards({
+  className = "",
+  projects,
+  isSeminar = false,
+}) {
   const [selectedDept, setSelectedDept] = useState("Computer Science");
   const sortedProjects = [...projects].sort((a, b) =>
     a.name.localeCompare(b.name)
@@ -52,22 +56,24 @@ export default function ProjectCards({ className = "", projects }) {
   return (
     <div className={`w-full flex flex-col items-center ${className}`}>
       {/* Department Tabs */}
-      <div className="w-full flex flex-wrap justify-center gap-3 mb-6">
-        {departments.map((dept) => (
-          <button
-            key={dept}
-            onClick={() => setSelectedDept(dept)}
-            className={`px-5 py-2 rounded-full text-sm sm:text-base font-semibold transition-all duration-300 border
+      {isSeminar && (
+        <div className="w-full flex flex-wrap justify-center gap-3 mb-6">
+          {departments.map((dept) => (
+            <button
+              key={dept}
+              onClick={() => setSelectedDept(dept)}
+              className={`px-5 py-2 rounded-full text-sm sm:text-base font-semibold transition-all duration-300 border
               ${
                 selectedDept === dept
                   ? "bg-blue-600 text-white border-blue-600 shadow-md scale-105"
                   : "bg-gray-100 text-gray-700 hover:bg-blue-100 border-gray-300"
               }`}
-          >
-            {dept}
-          </button>
-        ))}
-      </div>
+            >
+              {dept}
+            </button>
+          ))}
+        </div>
+      )}
 
       {/* Project Grid */}
       <div

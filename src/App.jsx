@@ -35,7 +35,13 @@ function App() {
           />
           <Route
             path="/seminar-topics"
-            element={<Topics header={"Seminar topics"} data={seminars} />}
+            element={
+              <Topics
+                header={"Seminar topics"}
+                data={seminars}
+                isSeminar={true}
+              />
+            }
           />
           <Route path="/*" element={<NotFound />} />
         </Route>
