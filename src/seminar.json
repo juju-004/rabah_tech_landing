@@ -1,398 +1,2040 @@
 [
   {
     "name": "Online Agricultural Trading Platform (Agrohub)",
-    "description": "This explores the design and implementation of an online agricultural trading platform (agrohub), focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of an online agricultural trading platform (agrohub), focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Intelligent Automobile Diagnostic and Repair Management System",
-    "description": "This explores the development of an intelligent automobile diagnostic and repair management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of an intelligent automobile diagnostic and repair management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Secure Healthcare Record System Using Blockchain Technology",
-    "description": "This explores the design of a secure healthcare record system using blockchain technology, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design of a secure healthcare record system using blockchain technology, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Civil Intelligence System for Public Infrastructure Data Management",
-    "description": "This explores the development of a civil intelligence system for public infrastructure data management, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of a civil intelligence system for public infrastructure data management, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Business Cost Analysis and Optimization Platform",
-    "description": "This explores the design and implementation of a business cost analysis and optimization platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of a business cost analysis and optimization platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Digital Court Management and Case Scheduling System",
-    "description": "This explores the development of a digital court management and case scheduling system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of a digital court management and case scheduling system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Decision Management System for Business Strategy Optimization",
-    "description": "This explores the design and implementation of a decision management system for business strategy optimization, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of a decision management system for business strategy optimization, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "University Academic File Sharing Platform",
-    "description": "This explores the design and implementation of a university academic file sharing platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of a university academic file sharing platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Intrusion Prevention System for Network Security Enhancement",
-    "description": "This explores the development of an intrusion prevention system for network security enhancement, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of an intrusion prevention system for network security enhancement, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "AI-Powered Medical Consultancy and Patient Connection System",
-    "description": "This explores the implementation of an ai-powered medical consultancy and patient connection system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the implementation of an ai-powered medical consultancy and patient connection system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Hospital Management and Patient Record System",
-    "description": "This explores the design and implementation of a hospital management and patient record system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of a hospital management and patient record system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Pneumonia Detection and Treatment Assistance Mobile Application",
-    "description": "This explores the development of a pneumonia detection and treatment assistance mobile application, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of a pneumonia detection and treatment assistance mobile application, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Real Estate Marketplace with Online Payment Integration",
-    "description": "This explores the design and implementation of a real estate marketplace with online payment integration, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of a real estate marketplace with online payment integration, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Child Abuse Reporting and Alert Management System",
-    "description": "This explores the development of a child abuse reporting and alert management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of a child abuse reporting and alert management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Farm Management and Resource Monitoring System",
-    "description": "This explores the design and implementation of a farm management and resource monitoring system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of a farm management and resource monitoring system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "AI-Driven Medical Symptom Analysis and Diagnosis Recommendation System",
-    "description": "This explores the development of an ai-driven medical symptom analysis and diagnosis recommendation system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of an ai-driven medical symptom analysis and diagnosis recommendation system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Customer Complaint Tracking and Resolution Management System",
-    "description": "This explores the design and implementation of a customer complaint tracking and resolution management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of a customer complaint tracking and resolution management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Corporate Crime Monitoring and Reporting System",
-    "description": "This explores the development of a corporate crime monitoring and reporting system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of a corporate crime monitoring and reporting system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Inventory and Stock Management System",
-    "description": "This explores the design and implementation of an inventory and stock management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of an inventory and stock management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Human Resource Management and Payroll Processing System",
-    "description": "This explores the development of a human resource management and payroll processing system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of a human resource management and payroll processing system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Warehouse Management and Logistics Optimization System",
-    "description": "This explores the design and implementation of a warehouse management and logistics optimization system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of a warehouse management and logistics optimization system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Event Booking and Ticket Management System",
-    "description": "This explores the design and implementation of an online event booking and ticket management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of an online event booking and ticket management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Secure Online Student Result Management Portal",
-    "description": "This explores the development of a secure online student result management portal, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of a secure online student result management portal, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Food Ordering and Delivery Platform",
-    "description": "This explores the design and implementation of an online food ordering and delivery platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of an online food ordering and delivery platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Electronic Library Management System",
-    "description": "This explores the design and implementation of an electronic library management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of an electronic library management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Digital Attendance Monitoring and Reporting System",
-    "description": "This explores the development of a digital attendance monitoring and reporting system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of a digital attendance monitoring and reporting system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Job Recruitment and Application Management System",
-    "description": "This explores the design and implementation of an online job recruitment and application management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of an online job recruitment and application management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "E-Commerce Website with Online Payment Integration",
-    "description": "This explores the design and implementation of an e-commerce website with online payment integration, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of an e-commerce website with online payment integration, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Portfolio Creation and Hosting Platform",
-    "description": "This explores the development of an online portfolio creation and hosting platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of an online portfolio creation and hosting platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Interactive Online Quiz Application",
-    "description": "This explores the design and implementation of an interactive online quiz application, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of an interactive online quiz application, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Inventory Tracking and Stock Level Management System",
-    "description": "This explores the development of an inventory tracking and stock level management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of an inventory tracking and stock level management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Secure Online Voting and Result Management System",
-    "description": "This explores the design and implementation of a secure online voting and result management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of a secure online voting and result management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Personal Finance and Expense Tracking System",
-    "description": "This explores the development of a personal finance and expense tracking system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of a personal finance and expense tracking system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Travel and Hotel Booking System",
-    "description": "This explores the design and implementation of an online travel and hotel booking system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of an online travel and hotel booking system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "E-Learning Platform for Online Course Delivery and Management",
-    "description": "This explores the development of an e-learning platform for online course delivery and management, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of an e-learning platform for online course delivery and management, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Restaurant Table Reservation System",
-    "description": "This explores the design and implementation of an online restaurant table reservation system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of an online restaurant table reservation system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Real-Time Web Chat Application Using WebSocket Technology",
-    "description": "This explores the development of a real-time web chat application using websocket technology, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of a real-time web chat application using websocket technology, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Task and Project Management System",
-    "description": "This explores the design and implementation of an online task and project management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of an online task and project management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Web-Based News Aggregation and Delivery Platform",
-    "description": "This explores the development of a web-based news aggregation and delivery platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of a web-based news aggregation and delivery platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Appointment Scheduling and Booking System",
-    "description": "This explores the design and implementation of an online appointment scheduling and booking system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of an online appointment scheduling and booking system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Resume and CV Generation Platform",
-    "description": "This explores the development of an online resume and cv generation platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of an online resume and cv generation platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Fitness Tracking and Progress Monitoring Application",
-    "description": "This explores the design and implementation of a fitness tracking and progress monitoring application, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of a fitness tracking and progress monitoring application, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Donation and Charity Management System",
-    "description": "This explores the development of an online donation and charity management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of an online donation and charity management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Web-Based Weather Forecast Application",
-    "description": "This explores the design and implementation of a web-based weather forecast application, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of a web-based weather forecast application, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Cloud-Based File Storage and Sharing System",
-    "description": "This explores the development of a cloud-based file storage and sharing system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of a cloud-based file storage and sharing system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Student Course Registration and Management System",
-    "description": "This explores the design and implementation of an online student course registration and management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of an online student course registration and management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Feedback Collection and Analysis System",
-    "description": "This explores the development of an online feedback collection and analysis system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of an online feedback collection and analysis system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Blog Publishing and Management Platform",
-    "description": "This explores the design and implementation of a blog publishing and management platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of a blog publishing and management platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Donation Tracking and Fund Management System",
-    "description": "This explores the development of an online donation tracking and fund management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of an online donation tracking and fund management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Web-Based Marketplace for Product Exchange",
-    "description": "This explores the design and implementation of a web-based marketplace for product exchange, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and implementation of a web-based marketplace for product exchange, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Booking and Appointment Management System for Clinics",
-    "description": "This explores the development of an online booking and appointment management system for clinics, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the development of an online booking and appointment management system for clinics, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Natural Language Emotion Detection System",
-    "description": "This explores the design and develop a natural language emotion detection system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a natural language emotion detection system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Fake News and Content Authenticity Checker",
-    "description": "This explores the design and develop a fake news and content authenticity checker, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a fake news and content authenticity checker, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "AI-Based Plant Disease Detection Platform",
-    "description": "This explores the design and develop an ai-based plant disease detection platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an ai-based plant disease detection platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Automated Resume Analysis and Skill Extraction System",
-    "description": "This explores the design and develop an automated resume analysis and skill extraction system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an automated resume analysis and skill extraction system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "AI-Based Student Performance Prediction System",
-    "description": "This explores the design and develop an ai-based student performance prediction system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an ai-based student performance prediction system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "AI-Powered Chatbot Support System",
-    "description": "This explores the design and develop an ai-powered chatbot support system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an ai-powered chatbot support system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Content-Based Movie Recommendation System",
-    "description": "This explores the design and develop a content-based movie recommendation system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a content-based movie recommendation system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Face Recognition Attendance Tracker",
-    "description": "This explores the design and develop a face recognition attendance tracker, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a face recognition attendance tracker, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Handwritten Digit Recognition System",
-    "description": "This explores the design and develop a handwritten digit recognition system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a handwritten digit recognition system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "AI-Based Personality Prediction System",
-    "description": "This explores the design and develop an ai-based personality prediction system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an ai-based personality prediction system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Inventory Management Platform",
-    "description": "This explores the design and develop an inventory management platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an inventory management platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Personal Expense Tracking and Budgeting App",
-    "description": "This explores the design and develop a personal expense tracking and budgeting app, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a personal expense tracking and budgeting app, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Freelance Job Matching Platform",
-    "description": "This explores the design and develop an online freelance job matching platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an online freelance job matching platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Startup Feasibility and Evaluation System",
-    "description": "This explores the design and develop a startup feasibility and evaluation system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a startup feasibility and evaluation system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Invoice Creation and Sharing Tool",
-    "description": "This explores the design and develop an online invoice creation and sharing tool, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an online invoice creation and sharing tool, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "AI-Powered Loan Approval Prediction System",
-    "description": "This explores the design and develop an ai-powered loan approval prediction system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an ai-powered loan approval prediction system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Customer Relationship Management Platform",
-    "description": "This explores the design and develop a customer relationship management platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a customer relationship management platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Sentiment Analysis System for Customer Feedback",
-    "description": "This explores the design and develop a sentiment analysis system for customer feedback, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a sentiment analysis system for customer feedback, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Business Analytics and Performance Dashboard",
-    "description": "This explores the design and develop a business analytics and performance dashboard, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a business analytics and performance dashboard, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Portfolio Builder for Creatives",
-    "description": "This explores the design and develop an online portfolio builder for creatives, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an online portfolio builder for creatives, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Secure File Sharing Web Platform",
-    "description": "This explores the design and develop a secure file sharing web platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a secure file sharing web platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Local Password Management App",
-    "description": "This explores the design and develop a local password management app, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a local password management app, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Markdown-Based Blogging System",
-    "description": "This explores the design and develop a markdown-based blogging system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a markdown-based blogging system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "URL Shortening and Analytics Platform",
-    "description": "This explores the design and develop a url shortening and analytics platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a url shortening and analytics platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online PDF Management Utility",
-    "description": "This explores the design and develop an online pdf management utility, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an online pdf management utility, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Event Scheduling and Registration System",
-    "description": "This explores the design and develop an event scheduling and registration system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an event scheduling and registration system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Voting and Election Management System",
-    "description": "This explores the design and develop an online voting and election management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an online voting and election management system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Blood Donation and Emergency Connection Platform",
-    "description": "This explores the design and develop a blood donation and emergency connection platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a blood donation and emergency connection platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Community Lost and Found Web App",
-    "description": "This explores the design and develop a community lost and found web app, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a community lost and found web app, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Mentorship Connection and Learning Platform",
-    "description": "This explores the design and develop a mentorship connection and learning platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a mentorship connection and learning platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Community Forum Platform",
-    "description": "This explores the design and develop an online community forum platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an online community forum platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Complaint Management and Feedback App",
-    "description": "This explores the design and develop a complaint management and feedback app, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a complaint management and feedback app, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Personalized Diet Recommendation System",
-    "description": "This explores the design and develop a personalized diet recommendation system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a personalized diet recommendation system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Mental Wellness and Stress Monitoring App",
-    "description": "This explores the design and develop a mental wellness and stress monitoring app, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a mental wellness and stress monitoring app, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "AI-Driven Health Risk Prediction System",
-    "description": "This explores the design and develop an ai-driven health risk prediction system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an ai-driven health risk prediction system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Emergency Notification System",
-    "description": "This explores the design and develop an online emergency notification system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an online emergency notification system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Workout Tracking and Progress Visualization App",
-    "description": "This explores the design and develop a workout tracking and progress visualization app, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a workout tracking and progress visualization app, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Personal Medicine Reminder System",
-    "description": "This explores the design and develop a personal medicine reminder system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a personal medicine reminder system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "AI-Powered Health Symptom Checking Tool",
-    "description": "This explores the design and develop an ai-powered health symptom checking tool, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an ai-powered health symptom checking tool, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Sleep Tracking and Quality Analysis Platform",
-    "description": "This explores the design and develop a sleep tracking and quality analysis platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a sleep tracking and quality analysis platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Health and Safety Information Portal",
-    "description": "This explores the design and develop an online health and safety information portal, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an online health and safety information portal, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "AI Chatbot for Mental Health Awareness",
-    "description": "This explores the design and develop an ai chatbot for mental health awareness, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an ai chatbot for mental health awareness, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Global Scholarship Search and Filter Platform",
-    "description": "This explores the design and develop a global scholarship search and filter platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a global scholarship search and filter platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Resume Creation and Export Tool",
-    "description": "This explores the design and develop an online resume creation and export tool, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an online resume creation and export tool, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Portfolio Template Sharing and Marketplace",
-    "description": "This explores the design and develop a portfolio template sharing and marketplace, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a portfolio template sharing and marketplace, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Online Learning and Collaboration Platform",
-    "description": "This explores the design and develop an online learning and collaboration platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an online learning and collaboration platform, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Developer Code Snippet Management Tool",
-    "description": "This explores the design and develop a developer code snippet management tool, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop a developer code snippet management tool, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
   },
   {
     "name": "Interactive Quiz Creation and Participation System",
-    "description": "This explores the design and develop an interactive quiz creation and participation system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts."
+    "description": "This explores the design and develop an interactive quiz creation and participation system, focusing on the theoretical background, system design, and real-world applications relevant to academic and research contexts.",
+    "department": "Computer Science"
+  },
+  {
+    "name": "Synthesis and Characterization of Biodegradable Polymers from Starch",
+    "description": "Investigating the preparation of eco-friendly biodegradable plastics using starch-based raw materials and analyzing their mechanical properties.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Water Quality Assessment of Local Wells and Boreholes",
+    "description": "Analyzing the chemical and microbial composition of groundwater samples to evaluate their suitability for human consumption.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Production of Bioethanol from Agricultural Waste",
+    "description": "Developing a sustainable process for generating bioethanol from cassava peels and corn husks as renewable energy sources.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction and Quantification of Essential Oils from Lemon Grass",
+    "description": "Studying the extraction efficiency and chemical composition of essential oils obtained from Cymbopogon citratus using steam distillation.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Corrosion Inhibition Studies on Mild Steel Using Natural Plant Extracts",
+    "description": "Examining the effectiveness of plant-derived inhibitors in preventing corrosion in acidic environments.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Phytochemical Screening of Medicinal Plants for Antibacterial Compounds",
+    "description": "Identifying and testing the active compounds in selected local herbs for antibacterial properties.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis and Spectroscopic Analysis of Metal Complexes of Schiff Bases",
+    "description": "Preparing transition metal complexes from Schiff bases and characterizing them using IR, UV, and NMR spectroscopy.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Heavy Metals in Locally Processed Foods",
+    "description": "Analyzing lead, cadmium, and arsenic levels in canned and packaged food products using atomic absorption spectroscopy.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Comparative Study of Detergent Formulations Using Local Materials",
+    "description": "Developing and evaluating detergent products using locally available surfactants and fillers.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Vitamin C Content in Fruits During Ripening",
+    "description": "Measuring the variation of ascorbic acid concentration in fruits at different stages of maturity.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Preparation of Activated Carbon from Coconut Shells",
+    "description": "Producing and characterizing activated carbon derived from coconut shells for water purification applications.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Kinetics of the Iodine Clock Reaction",
+    "description": "Investigating the rate law and activation energy of the iodine clock reaction under various conditions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Chemical Composition Analysis of Local Soaps",
+    "description": "Comparing the saponification values and fatty acid profiles of locally made and commercial soaps.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction and Characterization of Natural Dyes from Hibiscus Flowers",
+    "description": "Developing a natural dye from hibiscus petals and testing its colorfastness on textile materials.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Comparative Study of Fuel Properties of Biodiesel from Various Oils",
+    "description": "Producing biodiesel from different vegetable oils and comparing viscosity, flash point, and energy output.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of pH and Buffer Capacity of Local Soft Drinks",
+    "description": "Analyzing the acidity and buffering ability of different soft drink brands to understand their chemical balance.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of the Effects of Temperature on Enzyme Catalysis",
+    "description": "Investigating the influence of temperature on enzyme activity using catalase as a model enzyme.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Quantitative Determination of Caffeine in Beverages",
+    "description": "Using UV spectroscopy to estimate caffeine concentrations in coffee, tea, and energy drinks.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Aspirin from Salicylic Acid",
+    "description": "Preparing acetylsalicylic acid in the laboratory and analyzing its purity using melting point and titration methods.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Hardness in Water Samples from Different Sources",
+    "description": "Titrimetric analysis of calcium and magnesium ions in tap, borehole, and rainwater samples.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Comparative Analysis of Local and Imported Fertilizers",
+    "description": "Determining the nutrient content and quality differences between local and imported NPK fertilizers.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of the Effects of Acid Rain on Building Materials",
+    "description": "Simulating acid rain conditions to evaluate the degradation rate of marble, concrete, and limestone.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction of Natural Flavor Compounds from Citrus Peels",
+    "description": "Isolating and analyzing limonene and related terpenes from orange and lemon peels.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Alcohol Content in Local Beverages",
+    "description": "Analyzing ethanol concentration in palm wine and other local brews using distillation and density measurement.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Production and Analysis of Soap Using Plant Ash as Alkali Source",
+    "description": "Investigating the saponification potential of alkaline extracts from plant ashes in soap production.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of the Effect of Catalysts on Esterification Reactions",
+    "description": "Studying how different acid catalysts influence the yield and rate of ester formation.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Assessment of Air Quality in Urban Areas",
+    "description": "Measuring pollutant concentrations like CO, NO2, and SO2 in high-traffic areas using chemical sensors.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Preparation of Alum from Waste Aluminum Cans",
+    "description": "Recycling aluminum cans through chemical conversion into alum for educational and industrial purposes.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Chemical Analysis of Local Honey Samples",
+    "description": "Investigating the sugar profile, moisture content, and pH of honey collected from different regions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Comparative Study of Bleaching Agents on Fabric",
+    "description": "Analyzing the bleaching effectiveness and damage caused by chlorine and hydrogen peroxide on cotton fabrics.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Adsorption of Dyes Using Natural Clays",
+    "description": "Evaluating the adsorption capacity of bentonite and kaolin clays for dye removal from wastewater.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Fatty Acid Composition of Edible Oils",
+    "description": "Using GC-MS to analyze fatty acid content in groundnut, palm, and olive oils.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Chemical Kinetics of the Decomposition of Hydrogen Peroxide",
+    "description": "Determining the rate constant and activation energy for hydrogen peroxide decomposition catalyzed by MnO2.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Evaluation of the Quality of Drinking Water Stored in Plastic Containers",
+    "description": "Studying how prolonged storage in plastic affects the chemical and physical quality of drinking water.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction of Natural Pigments from Spinach Leaves",
+    "description": "Isolating chlorophyll pigments and analyzing their stability under different light and temperature conditions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Acid-Base Indicators from Natural Sources",
+    "description": "Developing eco-friendly pH indicators from plant extracts such as hibiscus and beetroot.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Chemical Analysis of Ash Content in Various Wood Samples",
+    "description": "Determining the mineral content of ashes obtained from different wood types through gravimetric analysis.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Sulphate and Nitrate Ions in Rainwater",
+    "description": "Analyzing atmospheric deposition of pollutants by titration and spectrophotometric methods.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Production of Biochar from Agricultural Residues",
+    "description": "Developing carbon-rich biochar materials for soil enhancement and pollutant adsorption.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Chemical Oxygen Demand (COD) in Wastewater Samples",
+    "description": "Determining organic load in wastewater using dichromate oxidation techniques.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Evaluation of Antioxidant Properties of Local Fruits",
+    "description": "Measuring the total phenolic content and antioxidant capacity of mango, guava, and pineapple extracts.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Silver Nanoparticles Using Plant Extracts",
+    "description": "Green synthesis of silver nanoparticles and analysis of their antimicrobial activity.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Lead Content in Paint Samples",
+    "description": "Measuring lead concentration in paints using atomic absorption spectrophotometry to assess safety compliance.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Free Radical Scavenging Activity in Herbal Teas",
+    "description": "Comparing the antioxidant effects of green tea and locally blended herbal teas.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Chemical Analysis of Household Cleaning Agents",
+    "description": "Evaluating the concentration of active ingredients and pH in popular household cleaners.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Salinity Levels in Irrigation Water",
+    "description": "Assessing the electrical conductivity and ionic composition of irrigation water samples.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction and Characterization of Natural Coagulants from Moringa Seeds",
+    "description": "Studying the efficiency of moringa seed extract in purifying turbid water samples.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of the Chemical Stability of Vitamin C in Stored Juices",
+    "description": "Monitoring the degradation of ascorbic acid in fruit juices under different storage conditions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Formulation and Quality Evaluation of Hand Sanitizers",
+    "description": "Developing alcohol-based hand sanitizers and testing their antibacterial effectiveness.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of the Effect of Heat on Milk Composition",
+    "description": "Analyzing the chemical changes in milk proteins and fats upon heating and pasteurization.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of the Chemical Constituents of Local Palm Oil",
+    "description": "Determining the fatty acid composition, iodine value, and free fatty acid content of palm oil samples from different regions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Biodiesel Using Waste Cooking Oil and Heterogeneous Catalysts",
+    "description": "Developing a green process for converting waste cooking oil into biodiesel using solid catalysts to enhance reusability.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Fluoride Concentration in Drinking Water",
+    "description": "Measuring fluoride levels in public water supplies to evaluate their compliance with WHO standards.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Comparative Analysis of the Efficiency of Natural and Synthetic Preservatives",
+    "description": "Testing the shelf life and microbial stability of fruit juices preserved with natural and artificial additives.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Electroplating of Copper on Iron Surfaces",
+    "description": "Investigating parameters that affect the uniformity and adhesion of copper coatings during electroplating.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Chemical Oxygen Demand and Biological Oxygen Demand in River Water",
+    "description": "Assessing the level of organic pollution in river water by comparing COD and BOD values.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction and Quantification of Caffeine from Tea Leaves",
+    "description": "Using solvent extraction and spectrophotometric analysis to determine caffeine content in different brands of tea.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Comparative Study of Local and Imported Cement on Setting Time and Composition",
+    "description": "Analyzing chemical composition and hydration rate differences between various cement brands.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Chemical Analysis of Different Brands of Bottled Water",
+    "description": "Evaluating the ionic composition, total dissolved solids, and pH of bottled water brands available locally.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of the Effect of Light on the Stability of Drugs",
+    "description": "Investigating photodegradation of commonly used pharmaceutical tablets under various lighting conditions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Preparation and Characterization of Zeolites from Clay",
+    "description": "Synthesizing zeolitic materials from natural clays and analyzing their adsorption capacity.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Phosphate Levels in Agricultural Runoff",
+    "description": "Measuring the concentration of phosphates in soil leachates to evaluate nutrient pollution.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Isolation of Natural Rubber from Latex",
+    "description": "Processing raw latex to obtain natural rubber and determining its physical and chemical properties.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Spectrophotometric Determination of Iron in Food Samples",
+    "description": "Estimating the iron content in fortified cereals and vegetables using UV-Vis spectroscopy.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Chemical Characterization of Local Clay for Industrial Use",
+    "description": "Analyzing chemical composition, pH, and cation exchange capacity of local clay deposits.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Antimicrobial Activity of Silver Nanoparticles",
+    "description": "Synthesizing silver nanoparticles and evaluating their inhibitory effects on common bacteria.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Comparative Study of the Efficiency of Natural Coagulants in Water Treatment",
+    "description": "Testing coagulants like Moringa seed extract and alum for turbidity removal efficiency.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Vitamin D Levels in Milk Samples",
+    "description": "Quantifying vitamin D concentration in milk using chromatographic techniques.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Assessment of Chemical Contaminants in Street Food",
+    "description": "Evaluating heavy metal and preservative levels in street-vended snacks for food safety assessment.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Thermochemical Analysis of Biomass Combustion",
+    "description": "Studying heat of combustion and ash content of biomass materials like sawdust and rice husk.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis and Characterization of Aspirin Derivatives",
+    "description": "Creating and analyzing structural analogs of aspirin for improved pharmacological performance.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Chemical Analysis of Drinking Water from Plastic and Glass Containers",
+    "description": "Comparing leaching effects and chemical stability of water stored in different packaging materials.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Iodine Value of Edible Oils",
+    "description": "Evaluating the degree of unsaturation in various edible oils using titrimetric analysis.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of the Effect of Temperature on Solubility of Salts",
+    "description": "Investigating how temperature affects solubility of ionic compounds in aqueous solutions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction of Alkaloids from Bitter Leaf (Vernonia amygdalina)",
+    "description": "Isolating and quantifying alkaloid content in bitter leaf extracts using acid-base extraction techniques.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Sulphur Content in Diesel Fuels",
+    "description": "Analyzing sulfur levels in local diesel samples to check compliance with emission standards.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Preparation and Characterization of Soap Using Shea Butter",
+    "description": "Developing shea butter-based soap and evaluating its pH, foaming ability, and hardness.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Kinetic Study of Saponification of Ethyl Acetate",
+    "description": "Determining rate constants and reaction order for the hydrolysis of ethyl acetate under basic conditions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Moisture Content and Ash in Food Samples",
+    "description": "Analyzing the nutritional composition of local food items through gravimetric techniques.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis and Characterization of Coordination Complexes of Nickel",
+    "description": "Preparing and analyzing Ni(II) complexes with nitrogen-oxygen donor ligands using IR and UV spectroscopy.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Adsorption of Heavy Metals Using Banana Peel",
+    "description": "Using dried banana peel as a low-cost biosorbent for removal of lead and cadmium from wastewater.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Formaldehyde in Building Materials",
+    "description": "Measuring formaldehyde emission levels in wood-based products using spectrophotometry.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Comparative Study of Different Antacids",
+    "description": "Evaluating neutralizing capacity, pH, and reaction time of various commercial antacid brands.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Sodium Chloride Content in Packaged Foods",
+    "description": "Determining salt levels in processed food to assess dietary sodium intake risks.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Enthalpy Changes in Neutralization Reactions",
+    "description": "Measuring heat changes during acid-base neutralization using calorimetry.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction and Characterization of Pectin from Orange Peels",
+    "description": "Producing natural pectin and analyzing its gelation properties for food and pharmaceutical use.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Comparative Analysis of Local Charcoal and Imported Activated Carbon",
+    "description": "Evaluating adsorption properties and surface area differences between local and imported carbon materials.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Residual Chlorine in Treated Water",
+    "description": "Measuring chlorine residual levels to ensure adequate disinfection and compliance with standards.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Assessment of Nitrate Contamination in Agricultural Soil",
+    "description": "Analyzing nitrate concentration and its environmental impact in farmlands with intensive fertilizer use.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Esters with Fruit-like Odors",
+    "description": "Producing artificial flavor esters and analyzing their scent profiles using gas chromatography.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Evaluation of Lubricating Oil Degradation",
+    "description": "Determining viscosity index and oxidation stability of used and fresh lubricating oils.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Chemical Analysis of Carbonated Soft Drinks",
+    "description": "Determining sugar concentration, acidity, and preservative content in carbonated beverages.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction of Natural Sweeteners from Stevia Leaves",
+    "description": "Isolating and quantifying steviol glycosides using solvent extraction and chromatography.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Lead and Cadmium Levels in Cosmetic Products",
+    "description": "Analyzing heavy metal contamination in lipsticks and facial powders using AAS.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of the Efficiency of Homemade Water Filters",
+    "description": "Comparing the removal efficiency of sand, charcoal, and gravel-based water filtration systems.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis and Characterization of Copper Oxide Nanoparticles",
+    "description": "Preparing CuO nanoparticles and evaluating their optical and catalytic properties.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of pH and Conductivity of Fruit Juices",
+    "description": "Measuring the acidity and ionic conductivity of various locally produced fruit juices.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Assessment of the Quality of Table Salt Brands",
+    "description": "Analyzing iodine content and purity levels in commercially available salt brands.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Chloride Content in Soil Samples",
+    "description": "Investigating soil salinity by determining chloride ion concentrations through titration.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Comparative Study of Natural and Synthetic Food Colorants",
+    "description": "Evaluating color intensity, stability, and safety of natural and artificial dyes in beverages.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Oxalate Levels in Leafy Vegetables",
+    "description": "Measuring oxalic acid content in spinach, kale, and other green vegetables using titration methods.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis and Characterization of Biodegradable Polymers",
+    "description": "This project explores the synthesis, properties, and potential applications of biodegradable polymers in environmental sustainability.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Green Chemistry Approaches for Reducing Industrial Waste",
+    "description": "An investigation into environmentally friendly chemical processes to minimize hazardous waste in industrial production.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Electrochemical Analysis of Heavy Metal Ions in Water",
+    "description": "A study using electrochemical methods to detect and quantify heavy metal contamination in water samples.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Catalytic Degradation of Organic Pollutants Using Nanomaterials",
+    "description": "Exploring how nanoparticles can catalyze the breakdown of harmful organic chemicals in water and soil.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction and Purification of Essential Oils from Plants",
+    "description": "A practical study on isolating essential oils and analyzing their chemical composition and uses.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of pH-Dependent Color Changes in Natural Indicators",
+    "description": "A project examining how plant-based indicators respond to acids and bases through color variation.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis and Analysis of Aspirin and Its Derivatives",
+    "description": "A laboratory study on the chemical synthesis of aspirin and testing its purity using analytical techniques.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Reaction Kinetics in Enzyme-Catalyzed Reactions",
+    "description": "Investigating how various factors affect the rate of enzyme-mediated chemical reactions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Corrosion Rates of Metals in Different Solutions",
+    "description": "A study analyzing how metals degrade under various environmental conditions and protective measures.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Biodegradable Plastics from Starch",
+    "description": "Exploring the preparation, properties, and environmental benefits of starch-based biodegradable plastics.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Antioxidant Properties of Plant Extracts",
+    "description": "A study of the chemical compounds in plants that neutralize free radicals and their potential health benefits.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Preparation and Characterization of Soap from Natural Oils",
+    "description": "A practical experiment on soap-making and analyzing the properties of soaps produced from different oils.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Electroplating of Metals and Factors Affecting Coating Quality",
+    "description": "An investigation into the process of metal plating and how various parameters influence its effectiveness.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Nanoparticles Using Green Methods",
+    "description": "Studying environmentally friendly approaches to produce nanoparticles and analyzing their physical properties.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Solubility Trends in Salts and Organic Compounds",
+    "description": "An experimental study on factors affecting solubility of different compounds in water and other solvents.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Vitamin C Content in Fruits Using Titration",
+    "description": "A quantitative analysis to measure the ascorbic acid content in various fruits.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Chemical Oscillations in the Belousov-Zhabotinsky Reaction",
+    "description": "Exploring periodic chemical reactions and their applications in theoretical chemistry.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of the Effect of Temperature on Reaction Rate",
+    "description": "An experiment to study how temperature influences the speed of chemical reactions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Water Hardness Using EDTA Titration",
+    "description": "A study to determine the concentration of calcium and magnesium ions in water samples.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Biofuels from Vegetable Oils",
+    "description": "Investigating the chemical process of converting plant oils into renewable fuel sources.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction and Quantification of Caffeine from Beverages",
+    "description": "A laboratory project analyzing the caffeine content in coffee, tea, and energy drinks.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Electrolytic Conductivity of Ionic Solutions",
+    "description": "Examining how ionic concentration affects the electrical conductivity of solutions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Acid-Base Titration Curves",
+    "description": "Analyzing the pH changes during titration to understand equivalence points and buffer zones.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Aspirin from Salicylic Acid and Acetic Anhydride",
+    "description": "A hands-on project to prepare aspirin and test its purity and yield.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Heavy Metal Removal Using Activated Carbon",
+    "description": "Investigating how activated carbon adsorbs and removes toxic metals from water.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Iodine Value in Oils and Fats",
+    "description": "A study analyzing unsaturation levels in different fats and oils using iodine titration.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Preparation and Study of Biodegradable Detergents",
+    "description": "Exploring the chemical synthesis and environmental impact of biodegradable cleaning agents.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Electrochemical Cells and Voltage Output",
+    "description": "A project analyzing factors affecting the potential difference in simple electrochemical cells.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Metal Complexes and Study of Their Properties",
+    "description": "An experimental study on coordination compounds and their chemical behaviors.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Chemical Components in Soaps and Detergents",
+    "description": "A study on the chemical composition and cleaning efficiency of commercial soaps and detergents.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Redox Reactions Using Permanganate Titration",
+    "description": "A practical experiment analyzing oxidation-reduction reactions quantitatively.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Biodiesel and Analysis of Fuel Properties",
+    "description": "An experimental project converting vegetable oils into biodiesel and evaluating its efficiency.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Electroplating Thickness Using Weight Difference",
+    "description": "An investigation of metal coating uniformity and factors influencing electroplating efficiency.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction and Characterization of Starch from Plants",
+    "description": "A project analyzing the chemical and physical properties of plant-derived starch.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of the Effect of pH on Enzyme Activity",
+    "description": "Investigating how different pH levels influence enzyme-catalyzed chemical reactions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Chloride Ion Concentration Using Argentometric Titration",
+    "description": "A quantitative analysis to measure chloride content in water and food samples.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis and Analysis of Aspirin Analogs",
+    "description": "A study on chemical modifications of aspirin to produce derivatives with potential pharmaceutical applications.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Chemical Equilibria in Weak Acid-Base Systems",
+    "description": "A project studying equilibrium constants and the behavior of weak acids and bases.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Heavy Metal Contamination in Soil Samples",
+    "description": "An environmental chemistry project quantifying metal pollutants in agricultural and urban soils.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Dye Molecules and Study of Their Light Absorption",
+    "description": "An experimental project exploring how chemical structure influences light absorption in organic dyes.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of the Effect of Temperature on Solubility",
+    "description": "A study on how temperature variations influence solubility of salts and organic compounds.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Gas Laws Using Laboratory Apparatus",
+    "description": "An experimental project verifying Boyle’s, Charles’s, and Gay-Lussac’s gas laws.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis and Study of Coordination Compounds",
+    "description": "Exploring transition metal complexes, their properties, and potential industrial applications.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Chemical Oxygen Demand (COD) in Wastewater",
+    "description": "A study quantifying organic pollutants in wastewater using chemical oxidation techniques.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction and Study of Natural Antioxidants in Foods",
+    "description": "Investigating plant-derived compounds that prevent oxidative damage in biological systems.",
+    "department": "Chemistry"
+  },
+
+  {
+    "name": "Synthesis of Biopolymers for Drug Delivery Applications",
+    "description": "A study on creating biodegradable polymers to deliver drugs efficiently in the human body.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Photocatalytic Degradation of Dyes in Wastewater",
+    "description": "Investigation of light-activated catalysts to break down industrial dyes in water.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Green Synthesis of Silver Nanoparticles Using Plant Extracts",
+    "description": "Exploring environmentally friendly methods to produce silver nanoparticles and their applications.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Heavy Metals in Herbal Supplements",
+    "description": "Measuring toxic metal contamination in herbal products using analytical chemistry techniques.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Development of Eco-Friendly Corrosion Inhibitors",
+    "description": "A study on natural compounds that prevent metal corrosion in industrial applications.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Biodegradable Polyesters from Renewable Resources",
+    "description": "Creating eco-friendly polymers from plant-based raw materials and studying their properties.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Electrochemical Detection of Pesticide Residues in Water",
+    "description": "Investigating electrochemical sensors to identify harmful pesticide residues in water sources.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction and Characterization of Natural Pigments",
+    "description": "Studying plant-derived pigments and their potential applications in food and cosmetics.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Zeolites for Industrial Catalysis",
+    "description": "Preparing and characterizing zeolite materials for catalytic applications in chemical industries.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Surfactant Properties of Soap and Detergent",
+    "description": "A study comparing the chemical properties and effectiveness of different surfactants.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Chemical Reactions in Microfluidic Devices",
+    "description": "Analyzing chemical reaction kinetics and efficiency in miniaturized microfluidic setups.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Water Hardness Using Complexometric Methods",
+    "description": "Measuring calcium and magnesium concentrations to assess water quality.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis and Application of Ionic Liquids",
+    "description": "A study on the preparation of ionic liquids and their use in green chemistry processes.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Development of Biodegradable Pesticides",
+    "description": "Creating environmentally safe pesticides that break down naturally in the environment.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction of Natural Antimicrobials from Plants",
+    "description": "Investigating plant compounds that inhibit microbial growth for pharmaceutical applications.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Enzyme Kinetics Using Colorimetric Assays",
+    "description": "Studying how enzyme concentration, pH, and temperature affect reaction rates.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Metal-Organic Frameworks for Gas Storage",
+    "description": "Exploring the preparation of MOFs for hydrogen or CO2 storage applications.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Electrochemical Behavior of Metal Ions in Solution",
+    "description": "Studying how metal ions react and transfer electrons under different conditions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Development of Chemical Sensors for Environmental Monitoring",
+    "description": "Creating sensors to detect pollutants in air, water, and soil using chemical principles.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Nanocatalysts for Hydrogen Production",
+    "description": "Exploring nanomaterials that accelerate chemical reactions to generate hydrogen fuel.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Redox Reactions in Industrial Waste Treatment",
+    "description": "Investigating oxidation-reduction processes for detoxifying industrial effluents.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Food Additives Using Chromatography",
+    "description": "Identifying and quantifying chemical additives present in processed foods.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Chemical Equilibria in Buffer Solutions",
+    "description": "Studying how buffers resist pH changes and their applications in chemical reactions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Biodegradable Packaging Materials",
+    "description": "Developing environmentally friendly packaging from natural polymers.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Evaluation of Antimicrobial Properties of Essential Oils",
+    "description": "Testing plant-derived oils for their ability to inhibit microbial growth.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Preparation and Study of Coordination Polymers",
+    "description": "Synthesizing coordination polymers and analyzing their chemical and physical properties.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Solvent Effects on Reaction Rates",
+    "description": "Studying how different solvents influence chemical reaction kinetics.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Photoluminescent Materials for LEDs",
+    "description": "Developing materials that emit light under specific conditions for use in LED technology.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Industrial Effluents Using Spectroscopic Methods",
+    "description": "Measuring chemical pollutants in wastewater using spectroscopy.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Development of Biodegradable Lubricants",
+    "description": "Creating environmentally friendly lubricants from natural oils and studying their properties.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Polymeric Nanocomposites for Water Purification",
+    "description": "Combining polymers and nanoparticles to remove contaminants from water.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Chemical Oscillations in Reaction Mechanisms",
+    "description": "Investigating periodic chemical reactions to understand dynamic behaviors in chemical systems.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction and Analysis of Alkaloids from Medicinal Plants",
+    "description": "Isolating plant alkaloids and analyzing their chemical and pharmacological properties.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Organometallic Compounds for Catalysis",
+    "description": "Preparing organometallic molecules and studying their use as catalysts in chemical reactions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Chemical Adsorption on Activated Carbon",
+    "description": "Studying how chemicals are adsorbed on carbon surfaces and their practical applications.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Detergent Efficiency Using Surface Tension Measurements",
+    "description": "Evaluating how different detergents reduce surface tension and enhance cleaning efficiency.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Natural Dye-Based Photovoltaic Materials",
+    "description": "Developing solar cell materials using plant-based dyes to capture light energy.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Acid-Base Neutralization Reactions",
+    "description": "Investigating the stoichiometry, pH changes, and heat release during neutralization.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Preparation of Metal Nanoparticles for Antimicrobial Applications",
+    "description": "Synthesizing metal nanoparticles and testing their antibacterial and antifungal properties.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Determination of Total Dissolved Solids in Water Samples",
+    "description": "A study quantifying minerals and salts in water to assess quality for consumption.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Green Solvents for Industrial Applications",
+    "description": "Developing environmentally safe solvents to replace hazardous organic solvents.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Photochemical Reactions Under UV Light",
+    "description": "Studying reactions driven by ultraviolet light and their potential industrial applications.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Pesticide Residues in Vegetables Using GC-MS",
+    "description": "Measuring and identifying pesticide residues in agricultural produce using gas chromatography-mass spectrometry.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Gas Absorption in Chemical Solutions",
+    "description": "Investigating how different gases dissolve in liquids and factors affecting absorption efficiency.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis and Evaluation of Biodegradable Fertilizers",
+    "description": "Preparing fertilizers that decompose naturally and studying their effectiveness on plant growth.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Chemical Sensors for Heavy Metal Detection",
+    "description": "Developing and testing chemical sensors to detect toxic metals in environmental samples.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Extraction and Characterization of Natural Antioxidants from Spices",
+    "description": "Studying antioxidant compounds in common spices and evaluating their health benefits.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Conductive Polymers for Electronic Applications",
+    "description": "Preparing polymers that conduct electricity and exploring their use in devices and sensors.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Chemical Composition of Drinking Water",
+    "description": "Determining minerals, pH, and contaminants in water samples to assess potability.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Reaction Mechanisms Using Spectroscopic Techniques",
+    "description": "Investigating chemical reaction pathways using NMR, IR, and UV-Vis spectroscopy.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Preparation of Biodegradable Microbeads for Cosmetic Applications",
+    "description": "Developing eco-friendly microbeads to replace harmful plastic microbeads in cosmetics.",
+    "department": "Chemistry"
+  },
+
+  {
+    "name": "Determination of Metal Ion Concentration Using Spectrophotometry",
+    "description": "An analytical chemistry project measuring absorbance to quantify metal ions in solution.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Organic Compounds from Green Chemistry Principles",
+    "description": "A project exploring environmentally friendly chemical reactions to produce organic molecules.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Adsorption Properties of Activated Charcoal",
+    "description": "A study analyzing how activated carbon adsorbs dyes, gases, or pollutants from solutions.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of Chemical Kinetics Using Iodine Clock Reaction",
+    "description": "An experiment analyzing reaction rates and the influence of concentration, temperature, and catalysts.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Preparation and Study of Antacids and Their Neutralization Efficiency",
+    "description": "A project analyzing the effectiveness of antacids in neutralizing stomach acids chemically.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Investigation of Electrochemical Sensors for Glucose Detection",
+    "description": "A study on designing and testing sensors to detect glucose using electrochemical techniques.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Synthesis of Biodegradable Surfactants from Natural Sources",
+    "description": "Exploring chemical methods to prepare eco-friendly surfactants and analyzing their properties.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Analysis of Water Purification Techniques Using Chemical Methods",
+    "description": "A study comparing chemical approaches to remove impurities from drinking water.",
+    "department": "Chemistry"
+  },
+  {
+    "name": "Study of the Effect of Catalysts on Reaction Rate",
+    "description": "An experimental investigation of how different catalysts accelerate chemical reactions.",
+    "department": "Chemistry"
+  },
+
+  {
+    "name": "Design and Construction of a Simple Electric Motor",
+    "description": "This project involves building a basic electric motor to demonstrate the conversion of electrical energy into mechanical motion.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of the Relationship Between Temperature and Resistance in Conductors",
+    "description": "An experimental study on how varying temperature affects the electrical resistance of metallic wires.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of the Acceleration Due to Gravity Using a Simple Pendulum",
+    "description": "A classic experiment to determine the value of gravitational acceleration based on pendulum motion.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of the Efficiency of a Solar Cell Under Different Light Intensities",
+    "description": "This project investigates how solar panel performance changes with varying illumination levels.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction and Calibration of a Simple Thermoelectric Generator",
+    "description": "A practical design and testing of a thermoelectric system that converts heat energy into electrical energy.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of Sound Wave Propagation Through Different Media",
+    "description": "This project examines how the speed and intensity of sound vary in solids, liquids, and gases.",
+    "department": "Physics"
+  },
+  {
+    "name": "Determination of the Refractive Index of Glass Using Snell’s Law",
+    "description": "An optical experiment to measure the refractive index of a glass block by analyzing angles of incidence and refraction.",
+    "department": "Physics"
+  },
+  {
+    "name": "Design and Construction of a Simple Electromagnetic Crane",
+    "description": "Building a miniature electromagnetic crane to demonstrate magnetic lifting principles.",
+    "department": "Physics"
+  },
+  {
+    "name": "Experimental Verification of Ohm’s Law Using a Simple Circuit",
+    "description": "A study that confirms Ohm’s Law by relating voltage, current, and resistance in a resistive circuit.",
+    "department": "Physics"
+  },
+  {
+    "name": "Determination of the Specific Heat Capacity of a Metal Block",
+    "description": "This project measures the thermal energy required to raise the temperature of a metal sample by one degree Celsius.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of the Damping Effect on a Simple Harmonic Oscillator",
+    "description": "A study on how friction and air resistance influence the motion of oscillating systems.",
+    "department": "Physics"
+  },
+  {
+    "name": "Design and Construction of a Simple Rainwater Harvesting Model with Hydraulic Flow",
+    "description": "A practical demonstration of gravitational potential energy and hydraulic flow in rainwater systems.",
+    "department": "Physics"
+  },
+  {
+    "name": "Determination of the Focal Length of a Concave Mirror Using the Object-Image Method",
+    "description": "An optical experiment designed to find the focal length of a mirror by locating image positions.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of the Factors Affecting the Period of a Simple Pendulum",
+    "description": "This research explores how pendulum length, mass, and amplitude affect oscillation time.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of Magnetic Field Strength Around a Current-Carrying Conductor",
+    "description": "An experiment to quantify the magnetic field produced by varying currents in a straight wire.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple Telescope Using Convex Lenses",
+    "description": "Building and testing a low-cost refracting telescope to magnify distant objects.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of Energy Conversion in a Falling Object",
+    "description": "An analysis of how potential energy converts into kinetic energy during free fall.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of the Photoelectric Effect Using Light of Different Wavelengths",
+    "description": "This project investigates the emission of electrons from metal surfaces exposed to light.",
+    "department": "Physics"
+  },
+  {
+    "name": "Determination of Young’s Modulus of a Metallic Wire",
+    "description": "An experiment to determine the elasticity of a material by measuring stress and strain.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple Hydroelectric Power Generator",
+    "description": "A practical demonstration of electrical energy generation from falling water.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of Light Diffraction Through a Narrow Slit",
+    "description": "An optical experiment studying how light waves bend and spread after passing through a slit.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of the Coefficient of Friction Between Two Surfaces",
+    "description": "This study measures frictional forces between materials and analyzes the factors influencing them.",
+    "department": "Physics"
+  },
+  {
+    "name": "Determination of the Density of Irregular Solids Using Archimedes’ Principle",
+    "description": "Applying buoyancy principles to calculate densities of irregularly shaped objects.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of Heat Transfer by Conduction in Metals",
+    "description": "An experiment to measure the thermal conductivity of different metallic rods.",
+    "department": "Physics"
+  },
+  {
+    "name": "Design and Construction of a Simple Wind Turbine Model",
+    "description": "A project that demonstrates energy conversion from wind motion into electrical energy.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of Resonance in a Vibrating String",
+    "description": "This project explores how resonance frequency changes with string tension and length.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of Terminal Velocity of a Falling Sphere in a Viscous Liquid",
+    "description": "A study of drag forces acting on an object moving through a fluid.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of Reflection and Refraction of Light Using a Glass Prism",
+    "description": "An experiment analyzing how light behaves when entering and leaving a prism.",
+    "department": "Physics"
+  },
+  {
+    "name": "Determination of the Efficiency of a Simple Pulley System",
+    "description": "A mechanical study evaluating work input and output in pulley arrangements.",
+    "department": "Physics"
+  },
+  {
+    "name": "Design and Construction of a Simple Seismograph",
+    "description": "A project that detects and records vibrations simulating seismic activity.",
+    "department": "Physics"
+  },
+  {
+    "name": "Experimental Verification of Boyle’s Law Using a Pressure Gauge",
+    "description": "An experiment to confirm the inverse relationship between pressure and volume of gases.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of the Speed of Sound in Air Using Resonance Tube",
+    "description": "A project determining sound velocity by analyzing resonance in air columns.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of Capillary Action in Liquids",
+    "description": "An experiment examining how liquid rises or falls in narrow tubes due to surface tension.",
+    "department": "Physics"
+  },
+  {
+    "name": "Design and Construction of a Simple Battery-Powered Electromagnet",
+    "description": "Building and testing a coil-based electromagnet to lift small metallic objects.",
+    "department": "Physics"
+  },
+  {
+    "name": "Determination of the Moment of Inertia of a Rigid Body",
+    "description": "This study measures the resistance of an object to angular acceleration around an axis.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple Electric Generator",
+    "description": "A demonstration of electromagnetic induction by producing electricity from motion.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of Standing Waves on a Stretched String",
+    "description": "This experiment studies wave patterns and harmonics formed on vibrating strings.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of Relative Humidity Using a Wet and Dry Bulb Hygrometer",
+    "description": "A practical approach to quantifying atmospheric humidity using psychrometric principles.",
+    "department": "Physics"
+  },
+  {
+    "name": "Design and Construction of a Simple Water Fountain Based on Bernoulli’s Principle",
+    "description": "A model demonstrating how pressure and velocity relate in fluid flow systems.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of Projectile Motion Using a Simple Launch Apparatus",
+    "description": "A project that examines the relationship between angle, velocity, and range of projectile paths.",
+    "department": "Physics"
+  },
+  {
+    "name": "Determination of Surface Tension of Liquids by Capillary Rise Method",
+    "description": "An experiment that measures the cohesive forces at a liquid’s surface using thin tubes.",
+    "department": "Physics"
+  },
+  {
+    "name": "Design and Construction of a Simple Magnetic Levitation Device",
+    "description": "A practical demonstration of magnetic repulsion principles to achieve levitation.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of Energy Dissipation in a Damped Oscillator",
+    "description": "This project measures the rate of energy loss in oscillating systems under frictional effects.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of the Coefficient of Restitution for Colliding Spheres",
+    "description": "An experiment to determine how elastic collisions conserve energy and momentum.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple Parabolic Solar Cooker",
+    "description": "A renewable energy project using reflective surfaces to focus sunlight for cooking.",
+    "department": "Physics"
+  },
+  {
+    "name": "Determination of Electric Field Distribution Between Parallel Plates",
+    "description": "An electrostatics experiment exploring how potential difference affects field uniformity.",
+    "department": "Physics"
+  },
+  {
+    "name": "Design and Construction of a Simple Wind Tunnel for Aerodynamic Testing",
+    "description": "This project simulates airflow over model objects to study drag and lift forces.",
+    "department": "Physics"
+  },
+  {
+    "name": "Experimental Verification of Charles’ Law Using a Capillary Tube",
+    "description": "A thermal physics experiment verifying the linear relationship between temperature and volume of gases.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of Light Polarization Using Polaroid Filters",
+    "description": "This project explores the behavior of polarized light through various optical materials.",
+    "department": "Physics"
+  },
+  {
+    "name": "Design and Construction of a Simple DC Power Supply",
+    "description": "A project that converts alternating current to direct current using rectifier circuits.",
+    "department": "Physics"
+  },
+  {
+    "name": "Analysis of the Motion of a Spring-Mass System Under Damping",
+    "description": "This project studies how damping forces affect the oscillation amplitude and frequency in a spring-mass system.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of the Effect of Wire Length on Electrical Resistance",
+    "description": "An experimental investigation of how the resistance of a conductor varies with its length and cross-sectional area.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Model Electric Bell and Study of Its Mechanism",
+    "description": "A practical demonstration of electromagnetism and mechanical motion in a simple electric bell.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of the Coefficient of Linear Expansion of Solids",
+    "description": "An experiment to determine how materials expand with temperature changes.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of the Relationship Between Light Intensity and Photocurrent",
+    "description": "A study of the photoelectric effect by measuring current response under different light intensities.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction and Testing of a Model Hydraulic Lift",
+    "description": "A project demonstrating Pascal’s principle and mechanical advantage in fluid systems.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of the Magnetic Field Produced by a Solenoid",
+    "description": "An investigation of the strength and distribution of the magnetic field along a current-carrying coil.",
+    "department": "Physics"
+  },
+  {
+    "name": "Determination of the Speed of Sound Using a Resonance Tube",
+    "description": "An experiment to measure sound velocity in air using resonance phenomena.",
+    "department": "Physics"
+  },
+  {
+    "name": "Experimental Study of Newton’s Second Law Using a Pulley System",
+    "description": "A practical demonstration of force, mass, and acceleration relationships in motion.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of the Young’s Modulus of a Metal Wire by Stretching Method",
+    "description": "A materials physics experiment that examines stress-strain relationships in metals.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of the Relationship Between Pressure and Volume of Gas",
+    "description": "An experimental verification of Boyle’s Law using a sealed gas system and pressure measurements.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple Water Rocket to Study Projectile Motion",
+    "description": "A project exploring dynamics, forces, and trajectory of a water-propelled rocket.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of Harmonics in a Vibrating String",
+    "description": "An experiment examining the formation of standing waves and harmonic frequencies on a string.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of the Thermal Conductivity of Different Metals",
+    "description": "A project measuring how efficiently various metals conduct heat energy.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of the Behavior of a Capacitor in an RC Circuit",
+    "description": "An analysis of charging and discharging curves of a capacitor in a resistive circuit.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple Electromagnetic Induction Apparatus",
+    "description": "A project demonstrating Faraday’s Law of Induction and the generation of electric current.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of Gravitational Acceleration Using Free Fall Method",
+    "description": "An experimental determination of g by timing a freely falling object.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of the Doppler Effect Using Sound Waves",
+    "description": "A project to study how sound frequency changes with the relative motion of source and observer.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of Energy Transformation in a Roller Coaster Model",
+    "description": "An exploration of potential and kinetic energy conversion in a scaled roller coaster track.",
+    "department": "Physics"
+  },
+  {
+    "name": "Analysis of Electric Power Dissipation in Resistors",
+    "description": "A study on how electrical energy converts to heat in resistive circuits and energy efficiency.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of the Moment of Inertia of a Rotating Disk",
+    "description": "An experiment determining rotational inertia and angular acceleration of a disk.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of the Effect of Temperature on the Resistance of a Thermistor",
+    "description": "A study on how resistance changes with temperature in thermistors for sensor applications.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple Galvanometer and Measurement of Small Currents",
+    "description": "A project demonstrating the deflection of a coil in a magnetic field to detect current flow.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of Projectile Motion Using a Digital Tracker",
+    "description": "An analysis of trajectories and motion parameters using video tracking techniques.",
+    "department": "Physics"
+  },
+  {
+    "name": "Determination of the Refractive Index of Liquids Using a Laser",
+    "description": "An optical experiment measuring how light bends when entering different liquid mediums.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of Harmonic Motion in a Mass-Spring System",
+    "description": "A study on periodic motion, amplitude, and frequency in spring oscillations.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple Solar Tracker",
+    "description": "A practical project to align solar panels optimally using light-dependent resistors (LDRs).",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of Surface Tension Using the Capillary Rise Method",
+    "description": "A project to quantify the cohesive forces at the surface of liquids using capillary tubes.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of Wave Interference Using Ripple Tank",
+    "description": "A project demonstrating constructive and destructive interference of water waves.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of Lenz’s Law Using Moving Magnets and Coils",
+    "description": "An experiment showing induced currents opposing motion of magnets through coils.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple LED Light Circuit and Analysis of Current Flow",
+    "description": "A practical electronics project demonstrating series and parallel connections of LEDs.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of the Efficiency of a Simple Mechanical Pulley System",
+    "description": "An experimental study of work input vs. work output in different pulley arrangements.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of the Acceleration of a Cart on an Inclined Plane",
+    "description": "A project using motion sensors to determine acceleration and verify Newton’s second law.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of Resonance in Air Columns Using a Tuning Fork",
+    "description": "An experiment demonstrating how air column length affects resonance frequencies.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple Electric Bell and Study of Its Working Principles",
+    "description": "A project illustrating electromagnetism and mechanical motion in a basic bell circuit.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of the Relationship Between Wavelength and Diffraction Angle",
+    "description": "An optical study using diffraction gratings to measure light wavelength.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of Eddy Currents in Moving Conductors",
+    "description": "An experiment examining induced currents in metals and their damping effects.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of the Thermal Expansion Coefficient of Liquids",
+    "description": "A project studying how different liquids expand with temperature changes.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple Magnetic Levitation Model Using Permanent Magnets",
+    "description": "A demonstration of repulsion forces to achieve levitation of a small object.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of the Relationship Between Current and Magnetic Field in a Solenoid",
+    "description": "A study to measure how solenoid current affects magnetic field strength.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of the Behavior of Light Through Lenses of Different Curvatures",
+    "description": "An experiment exploring image formation and focal lengths in convex and concave lenses.",
+    "department": "Physics"
+  },
+  {
+    "name": "Determination of Work Function of a Metal Using Photoelectric Effect",
+    "description": "An experiment to calculate the minimum energy needed to eject electrons from a metal surface.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of Terminal Velocity of Objects in a Fluid Medium",
+    "description": "A study of drag forces and equilibrium velocity in viscous liquids.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of Simple Harmonic Motion Using a Torsion Pendulum",
+    "description": "A project analyzing angular oscillations and their dependence on torsion constant and mass.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of the Effect of Cross-Sectional Area on Electrical Resistance",
+    "description": "An experimental verification of the relationship between wire thickness and resistance.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple DC Motor to Demonstrate Electromagnetic Principles",
+    "description": "A practical project to show the conversion of electrical energy into mechanical motion.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of Light Intensity Using a Photodiode Sensor",
+    "description": "A study quantifying illumination levels and calibrating light sensors for practical applications.",
+    "department": "Physics"
+  },
+  {
+    "name": "Investigation of Heat Transfer by Convection in Liquids",
+    "description": "An experiment exploring how temperature gradients drive fluid motion and energy transfer.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple Electromagnetic Generator for Educational Demonstration",
+    "description": "A project demonstrating electricity generation using motion and magnetic fields.",
+    "department": "Physics"
+  },
+  {
+    "name": "Study of Light Polarization Using Reflection and Transmission",
+    "description": "An experiment exploring how polarizing filters and surfaces affect light orientation.",
+    "department": "Physics"
+  },
+  {
+    "name": "Measurement of the Coefficient of Restitution for Elastic and Inelastic Collisions",
+    "description": "A project to determine how collisions differ in energy retention between various materials.",
+    "department": "Physics"
+  },
+  {
+    "name": "Construction of a Simple Water Flow Turbine",
+    "description": "A renewable energy project converting kinetic energy of flowing water into mechanical motion.",
+    "department": "Physics"
   }
 ]

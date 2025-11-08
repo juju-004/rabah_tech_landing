@@ -1,24 +1,36 @@
-import React, { useState, useEffect } from "react";
+import React, { useMemo, useState } from "react";
 
 export default function ProjectCards({ className = "", projects }) {
+  const [selectedDept, setSelectedDept] = useState("Computer Science");
   const sortedProjects = [...projects].sort((a, b) =>
     a.name.localeCompare(b.name)
   );
 
+  // Department list
+  const departments = ["Computer Science", "Chemistry", "Physics"];
+
+  // Optional filtering logic (depends on your data)
+  const filteredProjects = sortedProjects.filter(
+    (p) => !p.department || p.department === selectedDept
+  );
+
   const itemsPerPage = 12;
-  const totalPages = Math.ceil(sortedProjects.length / itemsPerPage);
+
+  const totalPages = useMemo(
+    () => Math.ceil(filteredProjects.length / itemsPerPage),
+    [filteredProjects]
+  );
   const [currentPage, setCurrentPage] = useState(1);
   const [fadeState, setFadeState] = useState("fade-in");
 
   const startIndex = (currentPage - 1) * itemsPerPage;
-  const currentProjects = sortedProjects.slice(
+  const currentProjects = filteredProjects.slice(
     startIndex,
     startIndex + itemsPerPage
   );
 
   // your WhatsApp number (no "+" or spaces)
-  const whatsappNumber = "2347036869758"; // change this to yours
-
+  const whatsappNumber = "2347036869758";
   const handleWhatsAppChat = (topic) => {
     const message = encodeURIComponent(
       `👋 Hi! I'm interested in this project topic:\n\n📘 *${topic}*`
@@ -39,6 +51,24 @@ export default function ProjectCards({ className = "", projects }) {
 
   return (
     <div className={`w-full flex flex-col items-center ${className}`}>
+      {/* Department Tabs */}
+      <div className="w-full flex flex-wrap justify-center gap-3 mb-6">
+        {departments.map((dept) => (
+          <button
+            key={dept}
+            onClick={() => setSelectedDept(dept)}
+            className={`px-5 py-2 rounded-full text-sm sm:text-base font-semibold transition-all duration-300 border
+              ${
+                selectedDept === dept
+                  ? "bg-blue-600 text-white border-blue-600 shadow-md scale-105"
+                  : "bg-gray-100 text-gray-700 hover:bg-blue-100 border-gray-300"
+              }`}
+          >
+            {dept}
+          </button>
+        ))}
+      </div>
+
       {/* Project Grid */}
       <div
         className={`grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-5 w-full transition-all duration-500 ${fadeState}`}
